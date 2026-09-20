@@ -5,9 +5,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
   <meta name="description" content="Un briefing personale in italiano. Europa, idee, scienza e cultura: meno rumore, più contesto.">
-  <title>Daily News — Il briefing personale</title>
+  <title>Daily David — Il briefing personale</title>
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='6' fill='%23095562'/%3E%3Ctext x='7' y='29' font-family='Georgia' font-size='28' fill='white'%3Ed%3C/text%3E%3C/svg%3E">
   <link rel="stylesheet" href="css/style.css">
+  <script src="js/theme.js"></script>
   <script type="module" src="js/app.js"></script>
 </head>
 <body>
@@ -16,15 +17,16 @@
     <header class="masthead">
       <div class="topline"><span>IL BRIEFING PERSONALE</span><time id="today"></time></div>
       <div class="brand-row">
-        <a class="brand" href="./" aria-label="Daily News, pagina iniziale">Daily<span>News</span><span class="brand-dot">.</span></a>
+        <a class="brand" href="./" aria-label="Daily David, pagina iniziale">Daily<span>David</span><span class="brand-dot">.</span></a>
         <nav aria-label="Navigazione principale"><a href="./" id="home-link">Il briefing</a><a href="?view=archive" id="archive-link">Archivio</a></nav>
       </div>
+      <button class="theme-toggle" type="button" aria-label="Attiva il tema scuro" aria-pressed="false">Tema: chiaro</button>
       <p class="tagline">Una selezione personale delle notizie che vale la pena leggere</p>
     </header>
     <main id="main" tabindex="-1" aria-busy="true"><p class="loading" role="status">Caricamento del briefing…</p></main>
     <noscript><p>Per leggere il briefing in questa pagina abilita JavaScript. Puoi anche consultare <a href="data/latest.json">i dati dell’ultima edizione</a>.</p></noscript>
     <footer>
-      <div class="footer-top"><a class="footer-brand" href="./">Daily News.</a><span>Selezione, contesto, fonti.</span><a href="?view=archive">Archivio delle edizioni</a></div>
+      <div class="footer-top"><a class="footer-brand" href="./">Daily David.</a><span>Selezione, contesto, fonti.</span><a href="?view=archive">Archivio delle edizioni</a></div>
       <details id="method"><summary>Fonti e metodo editoriale</summary><p>Una selezione in italiano, con uno sguardo europeo. Ogni notizia rimanda alle fonti consultate. Fatti verificati, dichiarazioni e analisi sono distinti; le incertezze restano esplicite. Una storia ritorna solo quando cambia qualcosa di sostanziale.</p><p>Per la ricerca scientifica contano lo studio originale, i limiti e la solidità delle evidenze. Le fotografie hanno crediti e informazioni sul riuso; non documentano un evento se sono immagini d’archivio.</p><a href="config/news_profile.md">Leggi il profilo editoriale completo</a></details>
       <p class="footer-note">Il tuo tempo conta. Anche quello che scegli di non leggere.</p>
     </footer>
