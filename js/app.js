@@ -65,7 +65,7 @@ function section(title, items, id, lead = false) {
 function renderBriefing(data, archived) {
   validateBriefing(data);
   const demo = data.status === 'demo';
-  document.title = `${demo ? 'Anteprima editoriale' : data.date ? `Briefing del ${data.date}` : 'Il briefing personale'} — Daily News`;
+  document.title = `${demo ? 'Anteprima editoriale' : data.date ? `Briefing del ${data.date}` : 'Il briefing personale'} — Daily David`;
   main.replaceChildren();
   if (demo) { const notice = el('aside', 'Anteprima di impaginazione: questi testi spiegano il profilo editoriale, non sono notizie. Le immagini sono d’archivio.', 'notice'); notice.append(link('Torna al briefing', './')); main.append(notice); }
   if (archived) { const notice = el('aside', 'Stai leggendo un’edizione d’archivio.', 'notice'); notice.append(link('Vai all’ultima edizione', './')); main.append(notice); }
@@ -94,7 +94,7 @@ function renderBriefing(data, archived) {
 }
 async function renderArchive() {
   const data = await readJSON('data/archive/index.json'); validateArchive(data);
-  document.title = 'Archivio — Daily News'; main.replaceChildren();
+  document.title = 'Archivio — Daily David'; main.replaceChildren();
   const intro = el('section', '', 'intro'); intro.append(el('p', 'LE EDIZIONI PRECEDENTI', 'eyebrow'), el('h1', 'Un giorno alla volta.'), el('p', 'I briefing passati, con le fonti e il contesto del momento.', 'deck')); main.append(intro);
   const list = el('ul', '', 'archive-list');
   for (const date of [...data.dates].sort().reverse()) { const li = el('li'); const a = link(dateFormat.format(new Date(`${date}T12:00:00Z`)), `?date=${date}`); a.append(el('span', 'Leggi il briefing →')); li.append(a); list.append(li); }
