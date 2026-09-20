@@ -9,7 +9,8 @@
     const button = document.querySelector('.theme-toggle');
     if (!button) return;
     const dark = theme === 'dark';
-    button.textContent = dark ? 'Tema: scuro · passa al chiaro' : 'Tema: chiaro · passa allo scuro';
+    button.textContent = dark ? '☀️' : '🌙';
+    button.title = dark ? 'Passa al tema chiaro' : 'Passa al tema scuro';
     button.setAttribute('aria-pressed', String(dark));
     button.setAttribute('aria-label', dark ? 'Attiva il tema chiaro' : 'Attiva il tema scuro');
   }

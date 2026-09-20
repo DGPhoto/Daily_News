@@ -40,8 +40,20 @@ function picture(image) {
   img.addEventListener('error', () => { img.remove(); caption.prepend(document.createTextNode('Immagine non disponibile. ')); }, { once:true });
   figure.append(img, caption); return figure;
 }
-function article(item, lead = false) {
+function topicFor(item, fallback) {
+  const category = (item.category || '').toLowerCase();
+  const topics = [
+    ['ai', /\bai\b|intelligenza artificiale/], ['clima_spazio', /clima|spazio|ambiente/],
+    ['motogp', /motogp|motocicl/], ['geopolitica', /ucraina|guerra|geopolitica|nato/],
+    ['europa', /europa/], ['italia', /italia/], ['danimarca', /danimarca/],
+    ['psicologia', /psicologia|adhd/], ['antropologia', /antropologia|evoluzione/],
+    ['fotografia_cultura', /fotografia|cultura/]
+  ];
+  return topics.find(([, pattern]) => pattern.test(category))?.[0] || fallback;
+}
+function article(item, lead = false, sectionId = 'oggi') {
   const node = el('article', '', lead ? 'story lead' : 'story');
+  node.dataset.topic = topicFor(item, sectionId);
   const copy = el('div', '', 'story-copy');
   copy.append(el('p', item.category, 'category'), el('h3', item.title), el('p', item.summary));
   if (item.why_it_matters) {
@@ -60,7 +72,7 @@ function heading(title, count) {
 }
 function section(title, items, id, lead = false) {
   const node = el('section', '', 'news-section'); node.id = id; node.setAttribute('aria-label', title); node.append(heading(title, items.length));
-  const grid = el('div', '', 'stories'); items.forEach((item,i) => grid.append(article(item, lead && i === 0))); node.append(grid); return node;
+  const grid = el('div', '', 'stories'); items.forEach((item,i) => grid.append(article(item, lead && i === 0, id))); node.append(grid); return node;
 }
 function renderBriefing(data, archived) {
   validateBriefing(data);
