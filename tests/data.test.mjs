@@ -1,0 +1,11 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {validateBriefing,validateArchive,validDate} from '../js/data.js';
+const story=()=>({title:'Test',category:'Europa',summary:'Test',why_it_matters:'Contesto',source:'Fonte',url:'https://example.org/articolo',published:'2026-09-20'});
+const edition=()=>({status:'published',date:'2026-09-20',updated:'2026-09-20T08:00:00+02:00',summary:'Test',top_stories:[story()],sections:{},watchlist:[]});
+test('edizione senza immagini valida',()=>assert.doesNotThrow(()=>validateBriefing(edition())));
+test('URL eseguibili respinti',()=>{const d=edition();d.top_stories[0].url='javascript:alert(1)';assert.throws(()=>validateBriefing(d));});
+test('date impossibili e fuso mancante respinti',()=>{assert.equal(validDate('2026-02-30'),false);const d=edition();d.updated='2026-09-20T08:00:00';assert.throws(()=>validateBriefing(d));});
+test('duplicati respinti',()=>{const d=edition();d.sections.europa=[story()];assert.throws(()=>validateBriefing(d));});
+test('immagini senza crediti respinte',()=>{const d=edition();d.top_stories[0].image={url:'https://example.org/f.jpg',alt:'Foto'};assert.throws(()=>validateBriefing(d));});
+test('indice senza duplicati',()=>{assert.throws(()=>validateArchive({dates:['2026-09-20','2026-09-20']}));assert.doesNotThrow(()=>validateArchive({dates:[]}));});
