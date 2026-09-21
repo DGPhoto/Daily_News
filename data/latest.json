@@ -1,160 +1,74 @@
 {
   "status": "published",
-  "date": "2026-09-20",
-  "updated": "2026-09-20T13:39:18Z",
-  "title": "L’Europa cerca una risposta comune.",
-  "summary": "La sicurezza europea apre questo primo briefing, tra le proposte di Bruxelles e la guerra dei droni. Poi il controllo dell’AI, la prima vittoria di Acosta in MotoGP e una lettura rigorosa sull’ADHD. Edizione del pomeriggio: notizie di oggi e sviluppi selezionati degli ultimi giorni, con le date delle fonti sempre visibili.",
+  "date": "2026-09-21",
+  "updated": "2026-09-21T03:02:36Z",
+  "title": "Germania, il voto cambia gli equilibri.",
+  "summary": "Il seguito della notte elettorale tedesca apre il briefing del lunedì. Poi energia in Italia e voto russo nei territori occupati. Una lettura della settimana sul DNA antico racconta il Baltico come spazio di migrazioni. Selezione del mattino: risultati provvisori e appuntamenti attesi restano distinti dai fatti conclusi.",
   "top_stories": [
     {
-      "title": "Un protocollo europeo contro sabotaggi e incursioni: la proposta di von der Leyen",
-      "category": "Europa · Sicurezza",
-      "summary": "Nel discorso sullo stato dell’Unione del 16 settembre, Ursula von der Leyen ha proposto un Emergency Security Protocol: se attivato da uno Stato, gli altri si riunirebbero per coordinare la risposta a minacce sotto la soglia dell’aggressione armata. La presidente della Commissione ha anche annunciato una nuova strategia di sicurezza europea.",
-      "why_it_matters": "Il nodo è come reagire insieme a sabotaggi e droni senza lasciare ogni paese da solo. Si tratta di proposte politiche, non di un nuovo obbligo di difesa già entrato in vigore.",
-      "statements": "Nel discorso il meccanismo è presentato come complementare alle consultazioni NATO e viene prospettato un formato di sicurezza con partner quali Regno Unito, Norvegia, Canada e Ucraina.",
-      "source": "Commissione europea · discorso integrale",
-      "url": "https://cyprus.representation.ec.europa.eu/news/2026-state-union-address-president-von-der-leyen-2026-09-16_en",
-      "published": "2026-09-16",
-      "additional_sources": [
-        {
-          "name": "Commissione · sintesi delle proposte",
-          "url": "https://home-affairs.ec.europa.eu/news/state-union-president-von-der-leyen-calls-common-european-response-borders-migration-and-security-2026-09-16_en?prefLang=ga"
-        },
-        {
-          "name": "Associated Press",
-          "url": "https://apnews.com/article/4ce4fef2ba8e3866e436655075afc6d3"
-        }
-      ],
-      "image": {
-        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament%2C_Strasbourg.jpg",
-        "alt": "L’emiciclo del Parlamento europeo a Strasburgo durante una seduta, fotografato dall’alto.",
-        "caption": "Parlamento europeo a Strasburgo, 18 maggio 2010. Foto d’archivio, non della seduta del 2026; ritaglio illustrativo.",
-        "credit": "jeffowenphotos / Wikimedia Commons",
-        "license": "CC BY 2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Hemicycle_of_Louise_Weiss_building_of_the_European_Parliament,_Strasbourg.jpg",
-        "license_url": "https://creativecommons.org/licenses/by/2.0/",
-        "width": 2000,
-        "height": 1333
-      }
+      "title": "AfD prima nel Meclemburgo, CDU sotto la soglia: ora contano le coalizioni",
+      "category": "Europa · Germania",
+      "summary": "Secondo il risultato provvisorio riportato da ARD, AfD raggiunge il 38,2% nel Meclemburgo-Pomerania Anteriore, davanti alla SPD al 35,5%. La CDU si ferma al 4,9%, sotto la soglia del 5%. Per la SPD una maggioranza è aritmeticamente possibile con Linke e Verdi.",
+      "why_it_matters": "È lo sviluppo della consultazione segnalata ieri: arrivare primi non significa automaticamente guidare il governo. La sconfitta della CDU aumenta la pressione politica sul cancelliere Merz, che ha dichiarato di voler proseguire il proprio mandato.",
+      "limitations": "Risultati provvisori; una maggioranza numerica non equivale a un accordo di coalizione.",
+      "source": "ARD · Tagesschau",
+      "url": "https://www.tagesschau.de/inland/landtagswahlen/mecklenburg-vorpommern/2026/mecklenburg-vorpommern-landtagswahl-ergebnis-104.html",
+      "published": "2026-09-21"
     },
     {
-      "title": "Nuova ondata di droni ucraini sulla Russia, colpita anche l’area di Mosca",
-      "category": "Ucraina · Guerra",
-      "summary": "Associated Press riferisce di oltre mille droni lanciati nella notte, secondo le autorità citate. Il governatore della regione di Mosca ha riportato due morti e venti feriti; Zelensky ha dichiarato che l’operazione puntava a infrastrutture petrolifere e logistiche.",
-      "why_it_matters": "La guerra a lunga distanza continua a coinvolgere infrastrutture economiche e aree abitate. Numeri, danni e obiettivi vanno distinti dalle rivendicazioni delle parti.",
-      "limitations": "Bilanci attribuiti alle autorità coinvolte; non costituiscono una verifica indipendente di ogni obiettivo colpito.",
+      "title": "Energia, il governo punta su rinnovabili e nucleare: mercoledì il passaggio al Senato",
+      "category": "Italia · Energia",
+      "summary": "ANSA riferisce che il ministro Pichetto Fratin sollecita un'accelerazione su rinnovabili, nucleare e sostegni contro il caro energia. La legge delega sul nucleare è attesa in aula al Senato mercoledì, dopo il passaggio alla Camera.",
+      "why_it_matters": "La questione riguarda costi per famiglie e imprese e tempi della transizione. Il passaggio parlamentare va distinto dalla realizzazione degli impianti e dall'effetto immediato sulle bollette.",
+      "limitations": "Le misure annunciate e l'obiettivo di presentare norme attuative entro l'anno sono impegni politici, non risultati già conseguiti.",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/economia/2026/09/20/il-governo-accelera-sullenergia-anche-a-rischio-infrazione-ue_f5834ddd-aa75-47fc-aa90-51835a43133a.html",
+      "published": "2026-09-20"
+    },
+    {
+      "title": "Voto russo, il nodo dei territori ucraini occupati",
+      "category": "Geopolitica · Ucraina",
+      "summary": "AP descrive un'elezione parlamentare strettamente controllata, con il partito del Cremlino avanti nei primi risultati. Il voto ha coinvolto anche residenti dei territori ucraini occupati e della Crimea; Kyiv lo denuncia come illegale e l'UE ne contesta la legittimità.",
+      "why_it_matters": "Per l'Europa il punto è anche il tentativo di consolidare politicamente l'occupazione, oltre ai risultati elettorali russi.",
+      "limitations": "Il resoconto riguarda risultati iniziali, non il conteggio definitivo.",
       "source": "Associated Press",
-      "url": "https://apnews.com/article/5f7889d027c0247ca2c2c64425b9ffa9",
-      "published": "2026-09-20T07:23:23Z",
-      "additional_sources": [
-        {
-          "name": "El País",
-          "url": "https://elpais.com/internacional/2026-09-20/ucrania-lanza-uno-de-sus-mayores-ataques-sobre-moscu-en-el-ultimo-dia-de-elecciones-rusas.html"
-        }
-      ]
-    },
-    {
-      "title": "Acosta vince in Austria: Aprilia sul podio con Martín e Bezzecchi",
-      "category": "MotoGP · Risultati",
-      "summary": "Pedro Acosta conquista al Red Bull Ring la prima vittoria domenicale in MotoGP. Jorge Martín arriva secondo, Marco Bezzecchi terzo; Marc Márquez chiude quinto. Il risultato premia KTM e porta entrambe le Aprilia ufficiali sul podio.",
-      "why_it_matters": "Martín rafforza la leadership del mondiale rispetto a Márquez. Per Ducati è una domenica da leggere anche nel confronto con il passo di KTM e Aprilia.",
-      "source": "AS · risultati del GP",
-      "url": "https://as.com/motor/motociclismo/resultados-motogp-clasificacion-del-gp-de-austria-y-mundial-f202609-n/",
-      "published": "2026-09-20T13:13:07Z",
-      "additional_sources": [
-        {
-          "name": "El País · cronaca",
-          "url": "https://elpais.com/deportes/motociclismo/2026-09-20/pedro-acosta-gana-el-gp-de-austria-y-conquista-por-fin-la-victoria-en-motogp.html"
-        }
-      ]
-    },
-    {
-      "title": "Quanto lavoro di ricerca sull’AI è già svolto dall’AI?",
-      "category": "AI · Trasparenza",
-      "summary": "Anthropic propone tre misure pubbliche: automazione della ricerca, supervisione degli agenti e impiego del calcolo. Nella propria rilevazione riferita ad agosto, dichiara che Claude guida il 26% delle attività di ricerca e sviluppo analizzate, ma che nessuna categoria misurata è completamente autonoma.",
-      "why_it_matters": "Il tema non è un nuovo benchmark: è capire chi controlla il processo che costruisce i modelli successivi.",
-      "limitations": "Sono misure prodotte dall’azienda, con una metodologia ancora non comune fra laboratori e uso dei propri modelli nella valutazione. Anthropic annuncia verificatori esterni: questo non equivale a una validazione indipendente già conclusa.",
-      "source": "Anthropic · proposta e metodologia",
-      "url": "https://www.anthropic.com/institute/measuring-pace-of-ai-development",
-      "published": "2026-09-17"
-    },
-    {
-      "title": "Lake Powell ai minimi: il segnale che arriva dalle riserve d’acqua",
-      "category": "Clima · Osservazioni",
-      "summary": "NASA Earth Observatory documenta livelli record di scarsità nel bacino di Lake Powell tra agosto e settembre. Il confronto satellitare include un’immagine Landsat del 10 settembre; il resoconto collega il calo alla poca neve nell’inverno precedente e alle temperature elevate, che hanno ridotto il contributo dello scioglimento.",
-      "why_it_matters": "Non è solo una fotografia della siccità: il sistema del Colorado sostiene approvvigionamento idrico, agricoltura ed energia. La gestione dell’acqua diventa parte dell’adattamento a condizioni persistenti.",
-      "limitations": "È un resoconto osservativo regionale, non da solo una misura dell’attribuzione climatica globale.",
-      "source": "NASA Earth Observatory",
-      "url": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
-      "published": "2026-09-18",
-      "image": {
-        "url": "https://assets.science.nasa.gov/dynamicimage/assets/science/esd/eo/images/iotd/2026/lake-powell-drops-to-record-low-levels/lakepowell_oli_20260910.jpg?crop=faces%2Cfocalpoint&fit=clip&h=1100&w=1440",
-        "alt": "Il corso d’acqua ristretto di Lake Powell si snoda tra canyon e terreno desertico, nell’immagine satellitare Landsat.",
-        "caption": "Lake Powell osservato da Landsat 8 il 10 settembre 2026. Visualizzazione ritagliata.",
-        "credit": "NASA Earth Observatory / Lauren Dauphin, dati Landsat USGS",
-        "license": "Condizioni NASA per uso editoriale",
-        "source_url": "https://science.nasa.gov/earth/earth-observatory/lake-powell-drops-to-record-low-levels/",
-        "license_url": "https://www.nasa.gov/nasa-brand-center/images-and-media/",
-        "width": 1440,
-        "height": 1100
-      }
+      "url": "https://apnews.com/article/russia-election-parliament-duma-putin-ukraine-6f3df3716cbcf8c96711b688762b450b",
+      "published": "2026-09-20"
     }
   ],
   "sections": {
-    "italia": [
+    "antropologia": [
       {
-        "title": "Casa e città: Roma e Copenhagen nel confronto dei sindaci a New York",
-        "category": "Italia · Città e società",
-        "summary": "L’Urban 20 del 19–20 settembre riunisce le grandi città del G20. ANSA segnala la partecipazione di Roberto Gualtieri e dei sindaci di Copenhagen, Milano e Torino, fra gli altri: al centro emergenza abitativa, sostenibilità e comunità migranti.",
-        "why_it_matters": "Casa e servizi urbani sono problemi concreti condivisi da Italia e Danimarca. Il vertice porta queste priorità nel confronto internazionale; la partecipazione non implica che siano già state adottate nuove misure locali.",
-        "source": "ANSA · programma del vertice",
-        "url": "https://www.ansa.it/lazio/notizie/2026/09/17/gualtieri-da-mamdani-a-new-york-per-il-g20-dei-sindaci_638a4858-ed5d-46f2-8944-13794340fa58.html",
-        "published": "2026-09-17T13:17:00+02:00"
-      }
-    ],
-    "ai": [
-      {
-        "title": "Il rallentamento dell’AI arriva anche in tribunale",
-        "category": "AI · Società e concorrenza",
-        "summary": "Una causa riportata da Associated Press accusa Anthropic, OpenAI, SpaceXAI e Google di essersi accordate illegalmente per rallentare lo sviluppo dell’AI. È un’accusa dei ricorrenti, non un illecito accertato.",
-        "why_it_matters": "La discussione sulla sicurezza incontra quella sulla concorrenza: come coordinare cautele condivise senza consegnare il controllo dello sviluppo alle sole aziende dominanti?",
-        "source": "Associated Press",
-        "url": "https://apnews.com/article/960af4308161eaf4ed13c383b0ce1c1b",
-        "published": "2026-09-19"
-      }
-    ],
-    "psicologia": [
-      {
-        "title": "ADHD e pupille: un segnale interessante, non un test diagnostico",
-        "category": "Psicologia · Lettura della settimana",
-        "summary": "Uno studio su Scientific Reports analizza 50 bambini, 28 con ADHD e 22 nel gruppo di controllo, durante un compito di memoria. Le variazioni pupillari offrono informazioni sull’andamento della prestazione, ma restano una misura indiretta e non specifica dell’attenzione.",
-        "why_it_matters": "È un esempio utile di come leggere la ricerca oltre il titolo: una differenza apparente non basta a identificare un marcatore clinico.",
-        "limitations": "Età media 10,6 anni: non generalizzare agli adulti. Una differenza fra partecipanti non supera la correzione per confronti multipli (q=0,051); gli effetti associati ai farmaci non possono essere separati del tutto da contributi farmacologici diretti e di sessione. Non è una raccomandazione terapeutica.",
-        "source": "Scientific Reports · studio originale",
-        "url": "https://www.nature.com/articles/s41598-026-68871-2",
-        "published": "2026-09-09"
+        "title": "Il DNA antico ridisegna le migrazioni tra Svezia e Finlandia",
+        "category": "Antropologia · Lettura della settimana",
+        "summary": "Uno studio su Genome Biology confronta nuovi dati genomici di 34 individui antichi con popolazioni moderne. Nella Finlandia sudoccidentale, costa e interno erano geneticamente simili nell'alto Medioevo; le popolazioni costiere attuali mostrano invece più ascendenza scandinava, coerentemente con successive migrazioni dalla Svezia.",
+        "why_it_matters": "Il lavoro integra l'archeologia con legami genetici attraverso il Baltico: un mare che collegava comunità, non una barriera. La continuità dell'interno e il cambiamento costiero raccontano storie demografiche differenti.",
+        "limitations": "Campione geograficamente e numericamente limitato: i risultati non descrivono tutta la Finlandia e l'ascendenza genetica non coincide con lingua o identità culturale. Studio pubblicato il 15 settembre, selezionato come approfondimento, non come notizia di oggi.",
+        "source": "Genome Biology · studio originale",
+        "url": "https://link.springer.com/article/10.1186/s13059-026-04277-7",
+        "published": "2026-09-15",
+        "additional_sources": [
+          {
+            "name": "Università di Turku · sintesi",
+            "url": "https://www.utu.fi/en/news/press-release/ancient-dna-traces-medieval-migration-from-sweden-to-finland"
+          }
+        ]
       }
     ]
   },
   "watchlist": [
     {
-      "title": "Germania, i risultati di oggi",
-      "summary": "Sono in programma votazioni a Berlino e nel Meclemburgo-Pomerania Anteriore. Da seguire risultati e possibili maggioranze: questa edizione pomeridiana non anticipa esiti.",
-      "source": "ANSA · agenda del 20 settembre",
-      "url": "https://www.ansa.it/sito/notizie/cronaca/2026/09/19/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-      "published": "2026-09-19"
+      "title": "Trump–Zelensky",
+      "summary": "Secondo Axios, l'incontro è atteso martedì. Da verificare conferma e risultati.",
+      "source": "Axios",
+      "url": "https://www.axios.com/2026/09/20/trump-zelensky-meeting-russia-ukraine-war-talks",
+      "published": "2026-09-20"
     },
     {
-      "title": "Fianco orientale della NATO",
-      "summary": "Tusk avverte del rischio di attacchi presentati come accidentali: è una valutazione del premier polacco. Da seguire riscontri e risposte ufficiali dell’Alleanza.",
-      "source": "Associated Press · dichiarazioni di Tusk",
-      "url": "https://apnews.com/article/818fe48227ee28d60fe86d8fe6485f5c",
-      "published": "2026-09-17"
-    },
-    {
-      "title": "Un concorso per le tue fotografie",
-      "summary": "Sony World Photography Awards 2027, Single Image: fino a tre foto del 2026 gratis, scadenza indicata 5 gennaio 2027 alle 16 GMT. Il copyright resta all’autore, ma il regolamento prevede una licenza promozionale e specifiche eccezioni da leggere prima dell’invio.",
-      "source": "World Photography Organisation · regolamento, consultato oggi",
-      "url": "https://www.worldphoto.org/sony-world-photography-awards/single-image",
+      "title": "Legge elettorale, oggi l'avvio in commissione",
+      "summary": "L'agenda ANSA indica alle 11 l'avvio dell'iter alla Camera. Da seguire il testo discusso e le convergenze effettive, senza anticipare un accordo.",
+      "source": "ANSA · agenda del 21 settembre",
+      "url": "https://videoembed.ansa.it/sito/notizie/cronaca/2026/09/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
       "published": "2026-09-20"
     }
   ]
