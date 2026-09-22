@@ -1,75 +1,66 @@
 {
   "status": "published",
-  "date": "2026-09-21",
-  "updated": "2026-09-21T03:02:36Z",
-  "title": "Germania, il voto cambia gli equilibri.",
-  "summary": "Il seguito della notte elettorale tedesca apre il briefing del lunedì. Poi energia in Italia e voto russo nei territori occupati. Una lettura della settimana sul DNA antico racconta il Baltico come spazio di migrazioni. Selezione del mattino: risultati provvisori e appuntamenti attesi restano distinti dai fatti conclusi.",
+  "date": "2026-09-22",
+  "updated": "2026-09-22T03:06:00Z",
+  "title": "Sanzioni alla Russia, l’UE cerca ancora l’accordo",
+  "summary": "Il rinnovo delle misure individuali contro la Russia torna sul tavolo dei Ventisette questa mattina. Italia e Stati Uniti firmano un’intesa sui minerali critici; OpenAI propone una coalizione per gli standard dell’AI. Nelle ricerche: quanto ci influenza il gruppo e le diverse stagioni dell’acqua su Marte.",
   "top_stories": [
     {
-      "title": "AfD prima nel Meclemburgo, CDU sotto la soglia: ora contano le coalizioni",
-      "category": "Europa · Germania",
-      "summary": "Secondo il risultato provvisorio riportato da ARD, AfD raggiunge il 38,2% nel Meclemburgo-Pomerania Anteriore, davanti alla SPD al 35,5%. La CDU si ferma al 4,9%, sotto la soglia del 5%. Per la SPD una maggioranza è aritmeticamente possibile con Linke e Verdi.",
-      "why_it_matters": "È lo sviluppo della consultazione segnalata ieri: arrivare primi non significa automaticamente guidare il governo. La sconfitta della CDU aumenta la pressione politica sul cancelliere Merz, che ha dichiarato di voler proseguire il proprio mandato.",
-      "limitations": "Risultati provvisori; una maggioranza numerica non equivale a un accordo di coalizione.",
-      "source": "ARD · Tagesschau",
-      "url": "https://www.tagesschau.de/inland/landtagswahlen/mecklenburg-vorpommern/2026/mecklenburg-vorpommern-landtagswahl-ergebnis-104.html",
+      "title": "Sanzioni individuali alla Russia: intesa rinviata, nuova riunione alle 8",
+      "category": "Europa · Sicurezza",
+      "summary": "Secondo fonti europee citate da ANSA nella tarda serata di lunedì, i Ventisette non hanno ancora raggiunto l’accordo sul rinnovo delle sanzioni individuali contro la Russia. Il Coreper II, che riunisce gli ambasciatori presso l’UE, torna a discuterne martedì 22 settembre alle 8, con la scadenza del rinnovo prevista a mezzanotte.",
+      "why_it_matters": "Il negoziato riguarda le persone colpite dalle misure: non equivale alla sospensione dell’intero sistema di sanzioni europee.",
+      "limitations": "ANSA riferisce di una bozza che escluderebbe Alisher Usmanov e Mikhail Fridman dalla lista. È un’ipotesi negoziale, non una decisione adottata.",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/ue-slitta-ancora-lok-al-rinnovo-delle-sanzioni-domani-nuova-riunione_ddff3938-d7be-468d-9c9a-e7b63f6101ae.html",
       "published": "2026-09-21"
     },
     {
-      "title": "Energia, il governo punta su rinnovabili e nucleare: mercoledì il passaggio al Senato",
-      "category": "Italia · Energia",
-      "summary": "ANSA riferisce che il ministro Pichetto Fratin sollecita un'accelerazione su rinnovabili, nucleare e sostegni contro il caro energia. La legge delega sul nucleare è attesa in aula al Senato mercoledì, dopo il passaggio alla Camera.",
-      "why_it_matters": "La questione riguarda costi per famiglie e imprese e tempi della transizione. Il passaggio parlamentare va distinto dalla realizzazione degli impianti e dall'effetto immediato sulle bollette.",
-      "limitations": "Le misure annunciate e l'obiettivo di presentare norme attuative entro l'anno sono impegni politici, non risultati già conseguiti.",
-      "source": "ANSA",
-      "url": "https://www.ansa.it/sito/notizie/economia/2026/09/20/il-governo-accelera-sullenergia-anche-a-rischio-infrazione-ue_f5834ddd-aa75-47fc-aa90-51835a43133a.html",
-      "published": "2026-09-20"
+      "title": "Italia e USA firmano un’intesa sui minerali critici",
+      "category": "Italia · Politica industriale",
+      "summary": "Antonio Tajani e Marco Rubio hanno firmato a New York un memorandum sulla cooperazione nei minerali critici. Secondo la Farnesina, l’intesa prevede un gruppo di lavoro tecnico, scambi di competenze e iniziative per favorire investimenti nell’estrazione, nella trasformazione e nel riciclo.",
+      "why_it_matters": "Diversificare le forniture riguarda la sicurezza industriale ed energetica: conta quanto gli impegni diplomatici si tradurranno in progetti e filiere effettivamente disponibili.",
+      "limitations": "Il memorandum definisce una cornice di cooperazione. Non va confuso con lo stanziamento di fondi o con l’avvio già avvenuto di nuovi impianti.",
+      "source": "Ministero degli Affari Esteri",
+      "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/09/tajani-e-rubio-firmano-a-new-york-lintesa-sui-minerali-critici/",
+      "published": "2026-09-21"
     },
     {
-      "title": "Voto russo, il nodo dei territori ucraini occupati",
-      "category": "Geopolitica · Ucraina",
-      "summary": "AP descrive un'elezione parlamentare strettamente controllata, con il partito del Cremlino avanti nei primi risultati. Il voto ha coinvolto anche residenti dei territori ucraini occupati e della Crimea; Kyiv lo denuncia come illegale e l'UE ne contesta la legittimità.",
-      "why_it_matters": "Per l'Europa il punto è anche il tentativo di consolidare politicamente l'occupazione, oltre ai risultati elettorali russi.",
-      "limitations": "Il resoconto riguarda risultati iniziali, non il conteggio definitivo.",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/russia-election-parliament-duma-putin-ukraine-6f3df3716cbcf8c96711b688762b450b",
-      "published": "2026-09-20"
+      "title": "OpenAI propone una coalizione internazionale sugli standard dell’AI",
+      "category": "AI · Regole e sicurezza",
+      "summary": "OpenAI chiede all’amministrazione Trump di guidare una coalizione internazionale per definire standard sull’intelligenza artificiale. ANSA riferisce che la proposta, presentata in vista di un intervento di Sam Altman al Consiglio di sicurezza dell’ONU, punta a coordinare la valutazione delle capacità e dei rischi dei modelli, compresa la capacità di autoaddestramento.",
+      "why_it_matters": "La scelta di chi definisce e verifica gli standard ha conseguenze anche per l’Europa e per il controllo pubblico dei sistemi più avanzati.",
+      "limitations": "È la proposta di un’azienda direttamente interessata alle regole del settore: non un accordo internazionale né una decisione dell’ONU.",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/openai-usa-guidino-coalizione-globale-per-gli-standard-dellia_93501a23-f12a-44f5-87a6-337590e5370e.html",
+      "published": "2026-09-22"
     }
   ],
   "sections": {
-    "antropologia": [
+    "psicologia": [
       {
-        "title": "Il DNA antico ridisegna le migrazioni tra Svezia e Finlandia",
-        "category": "Antropologia · Lettura della settimana",
-        "summary": "Uno studio su Genome Biology confronta nuovi dati genomici di 34 individui antichi con popolazioni moderne. Nella Finlandia sudoccidentale, costa e interno erano geneticamente simili nell'alto Medioevo; le popolazioni costiere attuali mostrano invece più ascendenza scandinava, coerentemente con successive migrazioni dalla Svezia.",
-        "why_it_matters": "Il lavoro integra l'archeologia con legami genetici attraverso il Baltico: un mare che collegava comunità, non una barriera. La continuità dell'interno e il cambiamento costiero raccontano storie demografiche differenti.",
-        "limitations": "Campione geograficamente e numericamente limitato: i risultati non descrivono tutta la Finlandia e l'ascendenza genetica non coincide con lingua o identità culturale. Studio pubblicato il 15 settembre, selezionato come approfondimento, non come notizia di oggi.",
-        "source": "Genome Biology · studio originale",
-        "url": "https://link.springer.com/article/10.1186/s13059-026-04277-7",
-        "published": "2026-09-15",
-        "additional_sources": [
-          {
-            "name": "Università di Turku · sintesi",
-            "url": "https://www.utu.fi/en/news/press-release/ancient-dna-traces-medieval-migration-from-sweden-to-finland"
-          }
-        ]
+        "title": "Le opinioni del gruppo spostano le intenzioni: una prova sperimentale",
+        "category": "Psicologia · Influenza sociale",
+        "summary": "Uno studio pubblicato su Current Psychology ha analizzato 47 studenti universitari in Corea del Sud, combinando un esperimento sulle norme sociali con misure EEG. Le intenzioni relative a comportamenti favorevoli al clima si avvicinavano subito alle posizioni del gruppo, anche quando queste erano meno favorevoli. Dopo sette giorni, la persistenza dell’effetto differiva secondo la direzione dell’influenza.",
+        "why_it_matters": "Il risultato aiuta a studiare come il contesto sociale orienti le scelte dichiarate, oltre alle convinzioni individuali.",
+        "limitations": "Campione piccolo, di una sola università, con età fra 18 e 33 anni. Si misurano intenzioni e un intervallo di sette giorni: non cambiamenti duraturi dei comportamenti reali. Le misure EEG non permettono di leggere le intenzioni di una persona.",
+        "source": "Current Psychology · studio originale",
+        "url": "https://link.springer.com/article/10.1007/s12144-026-10066-z",
+        "published": "2026-09-21"
+      }
+    ],
+    "clima_spazio": [
+      {
+        "title": "Marte: nelle rocce di Jezero, almeno tre episodi di interazione con l’acqua",
+        "category": "Spazio · Marte",
+        "summary": "Le rocce osservate da Perseverance al margine interno del cratere Jezero raccontano una storia più complessa di un semplice deposito lacustre. Secondo la NASA, l’analisi di oltre 185 bersagli rocciosi con SuperCam indica rocce magmatiche modificate dall’acqua in almeno tre occasioni, tra circolazione sotterranea e una possibile fase legata a un lago.",
+        "why_it_matters": "Ricostruire ambienti e trasformazioni dell’acqua aiuta a capire quali condizioni potessero essere favorevoli alla vita sul Marte antico.",
+        "limitations": "I ricercatori ricostruiscono l’ordine delle trasformazioni, non le loro età precise. Il risultato, presentato in uno studio su Communications Earth & Environment, non costituisce una scoperta di vita.",
+        "source": "NASA/JPL · missione Perseverance",
+        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+        "published": "2026-09-21"
       }
     ]
   },
-  "watchlist": [
-    {
-      "title": "Trump–Zelensky",
-      "summary": "Secondo Axios, l'incontro è atteso martedì. Da verificare conferma e risultati.",
-      "source": "Axios",
-      "url": "https://www.axios.com/2026/09/20/trump-zelensky-meeting-russia-ukraine-war-talks",
-      "published": "2026-09-20"
-    },
-    {
-      "title": "Legge elettorale, oggi l'avvio in commissione",
-      "summary": "L'agenda ANSA indica alle 11 l'avvio dell'iter alla Camera. Da seguire il testo discusso e le convergenze effettive, senza anticipare un accordo.",
-      "source": "ANSA · agenda del 21 settembre",
-      "url": "https://videoembed.ansa.it/sito/notizie/cronaca/2026/09/20/accadeoggi_dd38a7d3-309c-4e12-a6b9-d7b1590e0cf6.html",
-      "published": "2026-09-20"
-    }
-  ]
+  "watchlist": []
 }
