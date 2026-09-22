@@ -1,0 +1,66 @@
+{
+  "status": "published",
+  "date": "2026-09-22",
+  "updated": "2026-09-22T03:06:00Z",
+  "title": "Sanzioni alla Russia, l’UE cerca ancora l’accordo",
+  "summary": "Il rinnovo delle misure individuali contro la Russia torna sul tavolo dei Ventisette questa mattina. Italia e Stati Uniti firmano un’intesa sui minerali critici; OpenAI propone una coalizione per gli standard dell’AI. Nelle ricerche: quanto ci influenza il gruppo e le diverse stagioni dell’acqua su Marte.",
+  "top_stories": [
+    {
+      "title": "Sanzioni individuali alla Russia: intesa rinviata, nuova riunione alle 8",
+      "category": "Europa · Sicurezza",
+      "summary": "Secondo fonti europee citate da ANSA nella tarda serata di lunedì, i Ventisette non hanno ancora raggiunto l’accordo sul rinnovo delle sanzioni individuali contro la Russia. Il Coreper II, che riunisce gli ambasciatori presso l’UE, torna a discuterne martedì 22 settembre alle 8, con la scadenza del rinnovo prevista a mezzanotte.",
+      "why_it_matters": "Il negoziato riguarda le persone colpite dalle misure: non equivale alla sospensione dell’intero sistema di sanzioni europee.",
+      "limitations": "ANSA riferisce di una bozza che escluderebbe Alisher Usmanov e Mikhail Fridman dalla lista. È un’ipotesi negoziale, non una decisione adottata.",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/21/ue-slitta-ancora-lok-al-rinnovo-delle-sanzioni-domani-nuova-riunione_ddff3938-d7be-468d-9c9a-e7b63f6101ae.html",
+      "published": "2026-09-21"
+    },
+    {
+      "title": "Italia e USA firmano un’intesa sui minerali critici",
+      "category": "Italia · Politica industriale",
+      "summary": "Antonio Tajani e Marco Rubio hanno firmato a New York un memorandum sulla cooperazione nei minerali critici. Secondo la Farnesina, l’intesa prevede un gruppo di lavoro tecnico, scambi di competenze e iniziative per favorire investimenti nell’estrazione, nella trasformazione e nel riciclo.",
+      "why_it_matters": "Diversificare le forniture riguarda la sicurezza industriale ed energetica: conta quanto gli impegni diplomatici si tradurranno in progetti e filiere effettivamente disponibili.",
+      "limitations": "Il memorandum definisce una cornice di cooperazione. Non va confuso con lo stanziamento di fondi o con l’avvio già avvenuto di nuovi impianti.",
+      "source": "Ministero degli Affari Esteri",
+      "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/09/tajani-e-rubio-firmano-a-new-york-lintesa-sui-minerali-critici/",
+      "published": "2026-09-21"
+    },
+    {
+      "title": "OpenAI propone una coalizione internazionale sugli standard dell’AI",
+      "category": "AI · Regole e sicurezza",
+      "summary": "OpenAI chiede all’amministrazione Trump di guidare una coalizione internazionale per definire standard sull’intelligenza artificiale. ANSA riferisce che la proposta, presentata in vista di un intervento di Sam Altman al Consiglio di sicurezza dell’ONU, punta a coordinare la valutazione delle capacità e dei rischi dei modelli, compresa la capacità di autoaddestramento.",
+      "why_it_matters": "La scelta di chi definisce e verifica gli standard ha conseguenze anche per l’Europa e per il controllo pubblico dei sistemi più avanzati.",
+      "limitations": "È la proposta di un’azienda direttamente interessata alle regole del settore: non un accordo internazionale né una decisione dell’ONU.",
+      "source": "ANSA",
+      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/openai-usa-guidino-coalizione-globale-per-gli-standard-dellia_93501a23-f12a-44f5-87a6-337590e5370e.html",
+      "published": "2026-09-22"
+    }
+  ],
+  "sections": {
+    "psicologia": [
+      {
+        "title": "Le opinioni del gruppo spostano le intenzioni: una prova sperimentale",
+        "category": "Psicologia · Influenza sociale",
+        "summary": "Uno studio pubblicato su Current Psychology ha analizzato 47 studenti universitari in Corea del Sud, combinando un esperimento sulle norme sociali con misure EEG. Le intenzioni relative a comportamenti favorevoli al clima si avvicinavano subito alle posizioni del gruppo, anche quando queste erano meno favorevoli. Dopo sette giorni, la persistenza dell’effetto differiva secondo la direzione dell’influenza.",
+        "why_it_matters": "Il risultato aiuta a studiare come il contesto sociale orienti le scelte dichiarate, oltre alle convinzioni individuali.",
+        "limitations": "Campione piccolo, di una sola università, con età fra 18 e 33 anni. Si misurano intenzioni e un intervallo di sette giorni: non cambiamenti duraturi dei comportamenti reali. Le misure EEG non permettono di leggere le intenzioni di una persona.",
+        "source": "Current Psychology · studio originale",
+        "url": "https://link.springer.com/article/10.1007/s12144-026-10066-z",
+        "published": "2026-09-21"
+      }
+    ],
+    "clima_spazio": [
+      {
+        "title": "Marte: nelle rocce di Jezero, almeno tre episodi di interazione con l’acqua",
+        "category": "Spazio · Marte",
+        "summary": "Le rocce osservate da Perseverance al margine interno del cratere Jezero raccontano una storia più complessa di un semplice deposito lacustre. Secondo la NASA, l’analisi di oltre 185 bersagli rocciosi con SuperCam indica rocce magmatiche modificate dall’acqua in almeno tre occasioni, tra circolazione sotterranea e una possibile fase legata a un lago.",
+        "why_it_matters": "Ricostruire ambienti e trasformazioni dell’acqua aiuta a capire quali condizioni potessero essere favorevoli alla vita sul Marte antico.",
+        "limitations": "I ricercatori ricostruiscono l’ordine delle trasformazioni, non le loro età precise. Il risultato, presentato in uno studio su Communications Earth & Environment, non costituisce una scoperta di vita.",
+        "source": "NASA/JPL · missione Perseverance",
+        "url": "https://www.nasa.gov/solar-system/planets/mars/nasa-discovery-reveals-complex-water-systems-on-early-mars/",
+        "published": "2026-09-21"
+      }
+    ]
+  },
+  "watchlist": []
+}
