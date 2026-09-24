@@ -1,139 +1,130 @@
 {
   "status": "published",
-  "date": "2026-09-23",
-  "updated": "2026-09-23T03:05:00Z",
-  "title": "Sanzioni, Artico e AI: gli accordi e le responsabilità",
-  "summary": "Dieci letture per il caffè del mercoledì. L’UE rinnova le sanzioni individuali, ma l’uscita di due oligarchi divide gli alleati; Trump e Zelensky discutono di energia e difesa aerea. Poi Groenlandia, conti italiani e il nuovo modello di Anthropic. L’editoriale è di Heidy Khlaaf su Nature. Completano l’edizione ADHD adulto, Denisoviani, Aprilia e una fotografia nata dall’incontro tra precisione e caso.",
+  "date": "2026-09-24",
+  "updated": "2026-09-24T03:06:12Z",
+  "title": "Nucleare, sicurezza europea e scoperte da verificare",
+  "summary": "Dieci letture per il caffè del giovedì: il voto sul nucleare italiano, la pressione russa sull’Europa e l’accordo sui droni tra Kyiv e Helsinki. Poi AI in laboratorio, memoria e lavoro, ghiacci artici, Hubble e le regole MotoGP del 2027. Due letture da conservare: le strade romane viste come rete e un editoriale del BMJ sull’accesso al supporto per l’ADHD.",
   "top_stories": [
     {
-      "title": "Sanzioni alla Russia rinnovate fino al 2029: fuori Usmanov e Fridman",
+      "title": "Nucleare: il Senato approva la delega, ora contano le regole attuative",
+      "category": "Italia · Energia",
+      "summary": "Il 23 settembre il Senato ha approvato definitivamente il disegno di legge delega sul nucleare, già passato alla Camera: 81 voti favorevoli e 51 contrari, secondo il resoconto di Repubblica. Si conclude così il passaggio parlamentare segnalato nei briefing precedenti. Il provvedimento affida al Governo la definizione del quadro per l’energia nucleare sostenibile; l’approvazione non equivale all’apertura di cantieri o all’entrata in funzione di centrali.",
+      "why_it_matters": "La scelta politica diventa un percorso normativo. Per valutarne gli effetti serviranno i decreti attuativi e le decisioni concrete su autorizzazioni, sicurezza, costi e gestione dei rifiuti.",
+      "source": "Senato della Repubblica · resoconto del 23 settembre",
+      "url": "https://www.parlamento.it/show-doc?id=0&idoggetto=0&leg=0&part=doc_dc-ressten_rs-ddltit_sddeadddl1924dagimdens&parthttp=doc_dc-ressten_rs&tipodoc=hotresaula",
+      "published": "2026-09-23",
+      "additional_sources": [
+        {
+          "name": "Repubblica · voto finale",
+          "url": "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/amp/"
+        }
+      ]
+    },
+    {
+      "title": "Sabotaggi e incursioni: i ministri europei distinguono la pressione russa da un attacco alla NATO",
       "category": "Europa · Sicurezza",
-      "summary": "Il negoziato rimasto aperto nel briefing di ieri si è concluso: il Consiglio UE ha prorogato per 36 mesi, fino al 22 settembre 2029, le misure individuali legate all’aggressione contro l’Ucraina. Riguardano oltre 3.000 persone ed entità e comprendono congelamento dei beni e restrizioni ai viaggi. Nella revisione non sono stati rinnovati gli inserimenti di tre persone e un’entità; ANSA identifica fra gli esclusi Alisher Usmanov e Mikhail Fridman.",
-      "why_it_matters": "La durata triennale allunga l’orizzonte delle misure rispetto ai rinnovi semestrali. L’accordo evita la scadenza, ma il compromesso sulle esclusioni ha un costo politico nei rapporti con Kyiv.",
-      "source": "Consiglio dell’Unione europea",
-      "url": "https://www.consilium.europa.eu/fr/press/press-releases/2026/09/22/ukraine-s-territorial-integrity-eu-extends-individual-listings-for-further-three-years/",
-      "published": "2026-09-22",
-      "statements": "Il ministro degli Esteri ucraino Andrii Sybiha ha duramente contestato le esclusioni; Zelensky le ha definite controproducenti, secondo ANSA.",
-      "additional_sources": [
-        {
-          "name": "ANSA · negoziato e reazioni",
-          "url": "https://www.ansa.it/sito/notizie/mondo/europa/2026/09/22/intesa-in-ue-sulle-sanzioni-alla-russia-rinnovo-per-3-anni-e-fuori-usmanov_24cdd38d-5453-46f0-9887-697a08c67f03.html"
-        }
-      ]
+      "summary": "A margine dell’Assemblea generale ONU, ministri europei e Kaja Kallas hanno descritto a Reuters una crescita di sabotaggi, incursioni e operazioni attribuite alla Russia per indebolire il sostegno all’Ucraina. Il ministro estone Margus Tsahkna ha però dichiarato di non vedere Mosca capace o in preparazione di un’aggressione militare convenzionale imminente contro l’Alleanza. La Romania distingue inoltre il rischio prodotto dai droni dalla prova di essere deliberatamente presa di mira.",
+      "why_it_matters": "Sono valutazioni su minacce diverse, che richiedono risposte diverse: proteggere infrastrutture e spazio aereo non significa considerare già imminente una guerra convenzionale sul territorio NATO.",
+      "source": "Reuters · John Irish e Tom Balmforth, via MarketScreener",
+      "url": "https://www.marketscreener.com/news/europeans-warn-of-rising-russian-sabotage-but-see-no-imminent-nato-attack-ce785ad9d080f020",
+      "published": "2026-09-23",
+      "limitations": "Le attribuzioni e le valutazioni sulle intenzioni russe sono quelle dei responsabili intervistati. Il Cremlino nega operazioni di sabotaggio nei paesi NATO e progetti di confronto militare."
     },
     {
-      "title": "Trump–Zelensky: si parla di tregua energetica, senza un accordo annunciato",
+      "title": "Ucraina e Finlandia: Zelensky annuncia un accordo sui droni",
       "category": "Geopolitica · Ucraina",
-      "summary": "Dopo circa quaranta minuti di colloquio all’ONU, Zelensky ha riferito di aver discusso con Trump una possibile tregua reciproca sugli obiettivi energetici. Secondo Reuters, il presidente ucraino ha escluso che si sia parlato di uno stop unilaterale agli attacchi di Kyiv contro le raffinerie russe. Ha anche chiesto missili Patriot per l’inverno, proponendo di compensare gli Stati Uniti con future forniture previste dall’accordo ucraino con la Germania.",
-      "why_it_matters": "Il punto concreto è proteggere riscaldamento ed elettricità prima dell’inverno. La reciprocità resta decisiva: una tregua energetica avrebbe un significato diverso da una rinuncia di una sola parte.",
-      "source": "Reuters · Tom Balmforth, via MarketScreener",
-      "url": "https://www.marketscreener.com/news/zelenskiy-to-meet-trump-at-un-in-push-for-energy-truce-with-russia-ce785ad8d98afe23",
-      "published": "2026-09-22",
-      "limitations": "Il resoconto riporta soprattutto le dichiarazioni di Zelensky. Non è stato annunciato un cessate il fuoco concordato con Mosca; Trump non aveva ancora accettato la proposta sui Patriot."
-    },
-    {
-      "title": "Groenlandia: firmata l’intesa di sicurezza con Danimarca e Stati Uniti",
-      "category": "Danimarca · Artico",
-      "summary": "A New York Stati Uniti, Danimarca e Groenlandia hanno firmato l’accordo sulla sicurezza artica annunciato nei giorni scorsi. ANSA riferisce che il testo prevede un rafforzamento della presenza militare americana concordato con Nuuk e Copenhagen e vincoli al controllo di attività sensibili da parte di investitori esterni alle aree NATO, dei suoi partner e dell’UE. Trump ha annunciato due nuove basi.",
-      "why_it_matters": "L’intesa tocca direttamente la sicurezza del Regno di Danimarca e i rapporti transatlantici. Il nodo da seguire è come presenza militare, investimenti e autonomia groenlandese saranno conciliati nell’attuazione.",
-      "source": "ANSA · Michele Esposito",
-      "url": "https://www.ansa.it/sito/notizie/mondo/2026/09/22/trump-inviero-subito-massiccia-presenza-militare-in-groenlandia-costruiremo-2-basi_c2a50262-914d-44c0-8a6a-6b6806b41ef0.html",
-      "published": "2026-09-22",
-      "statements": "Il premier groenlandese Jens-Frederik Nielsen ha sottolineato il riconoscimento dell’autodeterminazione; Mette Frederiksen ha accolto l’intesa come un passo avanti.",
-      "limitations": "Le nuove basi sono un annuncio del presidente americano: la firma dell’accordo non significa che siano già costruite o operative."
-    },
-    {
-      "title": "Italia: crescita 2025 rivista allo 0,6%, deficit fermo al 3,1%",
-      "category": "Italia · Economia",
-      "summary": "La revisione Istat porta la crescita reale del PIL del 2025 allo 0,6%, un decimo di punto sopra la stima di marzo. Il deficit resta invece al 3,1% del PIL, mentre il saldo primario, che esclude gli interessi, è positivo per lo 0,8%. La domanda nazionale ha sostenuto la crescita; il contributo degli scambi con l’estero è stato negativo.",
-      "why_it_matters": "Sono dati sul 2025 pubblicati ora, non una misura della crescita di oggi. Il mancato miglioramento del rapporto deficit/PIL complica l’obiettivo politico di uscire anticipatamente dalla procedura europea e restringe lo spazio della discussione sulla manovra.",
-      "source": "Istat · Conti economici nazionali",
-      "url": "https://www.istat.it/comunicato-stampa/conti-economici-nazionali-anni-2010-2025/",
-      "published": "2026-09-22",
-      "limitations": "Le proposte di spesa su energia e difesa restano distinte dalle decisioni di bilancio approvate. Le revisioni statistiche incorporano nuove informazioni e metodi: non equivalgono a nuova attività economica generata in settembre.",
-      "additional_sources": [
-        {
-          "name": "ANSA · conseguenze per la manovra",
-          "url": "https://www.ansa.it/sito/notizie/economia/2026/09/22/deficit-sopra-il-3-il-nodo-energia-e-difesa-mentre-si-lavora-la-manovra_b6f59ffb-2367-4405-b220-b56b0a94fab5.html"
-        }
-      ]
+      "summary": "Zelensky ha annunciato di aver firmato a New York un accordo sui droni con il presidente finlandese Alexander Stubb. Secondo il presidente ucraino, l’obiettivo è combinare l’esperienza sviluppata da Kyiv con le capacità industriali dei partner, condividendo tecnologie utili anche alla protezione di infrastrutture e trasporti. Reuters riferisce l’annuncio dopo l’incontro a margine dell’ONU.",
+      "why_it_matters": "La cooperazione può trasformare l’esperienza ucraina in capacità produttiva europea. Per Helsinki è anche un tema di sicurezza regionale; per Kyiv, una possibile strada per ampliare la scala industriale.",
+      "source": "Reuters · via MarketScreener",
+      "url": "https://www.marketscreener.com/news/ukraine-s-zelenskiy-says-he-signed-drone-deal-with-finnish-president-ce785aded98cf624",
+      "published": "2026-09-23",
+      "limitations": "Il resoconto non fornisce quantità, valore economico o calendario delle consegne. La firma annunciata non dimostra ancora che nuovi sistemi siano operativi."
     }
   ],
   "sections": {
     "ai": [
       {
-        "title": "Anthropic presenta Opus 5.5: capacità avanzate a costi dichiarati inferiori",
-        "category": "AI · Modelli e società",
-        "summary": "Anthropic ha presentato Claude Opus 5.5, primo modello della nuova famiglia. L’azienda dichiara prestazioni vicine a Fable 5.1 nella maggior parte dei lavori e un costo tipico per attività inferiore del 40% rispetto a Opus 5. Riferisce inoltre valutazioni esterne prima del rilascio, fra cui quelle di METR e Frontier Design, e miglioramenti nei propri controlli sul comportamento del modello.",
-        "why_it_matters": "La diffusione dell’AI dipende anche da quanto costa delegarle compiti lunghi. Una riduzione dei costi può estendere gli impieghi, rendendo ancora più importante verificare affidabilità e supervisione nelle situazioni reali.",
-        "source": "Anthropic · annuncio ufficiale",
-        "url": "https://www.anthropic.com/claude-opus-5-5",
-        "published": "2026-09-22",
-        "limitations": "Prestazioni, risparmi e risultati degli audit sono presentati dal produttore. Non dimostrano che ogni utilizzatore otterrà lo stesso vantaggio né che il modello sia privo di rischi."
-      },
-      {
-        "title": "Heidy Khlaaf: la sicurezza dell’AI richiede responsabilità esterne alle aziende",
-        "category": "Editoriale · Opinione · AI",
-        "summary": "Nel commento pubblicato su Nature il 22 settembre, l’informatica Heidy Khlaaf sostiene che le aziende AI non debbano definire da sole le regole della propria sicurezza. La sua tesi è che attribuire intenzioni agli agenti che oltrepassano un ambiente di prova possa oscurare le responsabilità umane nella progettazione e nei controlli. Propone di applicare all’AI impiegata nei settori regolati le soglie di rischio e i meccanismi di responsabilità già previsti per altre tecnologie critiche.",
-        "why_it_matters": "Una lettura utile accanto agli annunci dei produttori: sposta la domanda dalle promesse di sicurezza a chi verifica, chi risponde degli errori e quali conseguenze affronta.",
-        "source": "Nature · Heidy Khlaaf, World View",
-        "url": "https://www.nature.com/articles/d41586-026-03014-1",
-        "published": "2026-09-22",
-        "limitations": "È una posizione argomentata dell’autrice, non uno studio sperimentale né una norma adottata. Il confronto con aviazione, nucleare e finanza sostiene la proposta, ma non risolve da solo come coordinarne l’applicazione internazionale."
+        "title": "Claude individua un sistema enzimatico: la scoperta interessante è ancora una domanda aperta",
+        "category": "AI · Ricerca",
+        "summary": "Anthropic ha descritto un sistema chiamato ART, individuato facendo analizzare a Claude sequenze genetiche di virus che infettano batteri. Il modello ha associato una trascrittasi inversa già conosciuta a ripetizioni di DNA e a una proteina accessoria: la novità riguarda questa organizzazione, non l’invenzione di un enzima dal nulla. I ricercatori umani hanno eseguito le verifiche di laboratorio; i primi esperimenti mostrano che le ripetizioni vengono espresse come piccoli RNA distinti.",
+        "why_it_matters": "È un esempio concreto di AI usata per selezionare anomalie e formulare ipotesi da sottoporre agli esperimenti. Il valore scientifico dipenderà da ciò che il sistema effettivamente fa.",
+        "source": "Anthropic · comunicazione e preprint",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "published": "2026-09-23",
+        "limitations": "Risultati preliminari presentati dall’azienda che sviluppa il modello. La funzione di ART resta sconosciuta: le somiglianze con CRISPR non dimostrano che sia già uno strumento di editing genetico o una terapia."
       }
     ],
     "psicologia": [
       {
-        "title": "ADHD adulto: apprendere resta possibile anche quando il punto di partenza cambia",
-        "category": "Psicologia · ADHD adulto · Approfondimento",
-        "summary": "Uno studio di Vision Research, pubblicato online l’11 giugno e nel fascicolo di settembre, confronta adulti con ADHD con e senza trattamento farmacologico e controlli neurotipici. In quattro sessioni i partecipanti dovevano riconoscere un bersaglio centrale e distinguere contemporaneamente una trama periferica. Il gruppo ADHD senza farmaci mostrava soglie più alte e risposte più lente; tutti i gruppi, però, miglioravano con l’allenamento.",
-        "why_it_matters": "La ricerca distingue la prestazione iniziale dalla capacità di apprendere: una difficoltà in un compito attentivo non implica l’assenza di plasticità. È un risultato circoscritto, ma utile contro letture troppo assolute dell’ADHD.",
-        "source": "Vision Research · Kahalani-Hodedany e colleghi",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/42275888/",
-        "published": "2026-06-11",
-        "limitations": "Sintesi basata sull’abstract originale: non vi sono riportati numerosità del campione e dimensioni degli effetti. Le differenze fra gruppi non consentono qui di isolare causalmente l’effetto dei farmaci. Non è una dimostrazione di efficacia clinica dell’allenamento né una raccomandazione terapeutica.",
+        "title": "Lavoro discontinuo e memoria: uno studio segue sedici anni di traiettorie occupazionali",
+        "category": "Psicologia · Memoria",
+        "summary": "Un gruppo della Columbia ha collegato le storie lavorative 1998–2014 di 2.418 partecipanti statunitensi a una valutazione cognitiva del 2016. Secondo il comunicato sullo studio pubblicato in Alzheimer’s & Dementia, la discontinuità occupazionale era associata a risultati cognitivi peggiori negli uomini; nelle donne emergevano associazioni anche con il pensionamento anticipato e con memoria e funzioni esecutive. La continuità del lavoro appariva più rilevante della sola sensazione di sicurezza del posto.",
+        "why_it_matters": "La ricerca sposta l’attenzione dalla singola perdita di lavoro alla storia accumulata nel tempo, compresi vincoli economici e responsabilità di cura.",
+        "source": "Columbia University · comunicato su EurekAlert!",
+        "url": "https://www.eurekalert.org/news-releases/1145147",
+        "published": "2026-09-23",
         "additional_sources": [
           {
-            "name": "Articolo originale · Vision Research",
-            "url": "https://www.sciencedirect.com/science/article/pii/S0042698926001070"
+            "name": "Studio originale · DOI",
+            "url": "https://doi.org/10.1002/alz.71863"
           }
-        ]
+        ],
+        "limitations": "Studio osservazionale: l’associazione non prova che andare in pensione provochi demenza. Salute preesistente e condizioni sociali possono influenzare sia lavoro sia cognizione. Sintesi basata sul comunicato universitario; non è una raccomandazione individuale sul pensionamento."
+      },
+      {
+        "title": "ADHD: prima di un’altra revisione, rendere accessibile il supporto",
+        "category": "Editoriale · Opinione · ADHD",
+        "summary": "Nell’editoriale del BMJ del 29 maggio, Anita Thapar, Samuele Cortese e Lucy Clement chiedono al Governo britannico di attuare le raccomandazioni della task force ADHD. La loro tesi è che ripetere revisioni della prevalenza, senza intervenire sui servizi, prolunghi un bisogno già documentato. Gli autori collegano le lunghe attese alla crescita dell’assistenza privata e delle disuguaglianze; chiedono anche standard di qualità, vigilanza sui fornitori e dati migliori su diagnosi e accesso alle cure.",
+        "why_it_matters": "Una lettura utile per separare due discussioni spesso confuse: quanto siano accurate le diagnosi e se chi ha bisogno di supporto riesca davvero a ottenerlo.",
+        "source": "The BMJ · Anita Thapar, Samuele Cortese e Lucy Clement",
+        "url": "https://www.bmj.com/content/393/bmj-2026-089948",
+        "published": "2026-05-29",
+        "limitations": "Editoriale · Opinione. Lettura d’archivio, non aggiornamento sulla risposta del Governo a settembre. Gli autori hanno partecipato alla task force di cui sostengono le raccomandazioni; il testo riguarda soprattutto il sistema inglese."
       }
     ],
     "antropologia": [
       {
-        "title": "Le proteine antiche ampliano la mappa dei Denisoviani",
-        "category": "Antropologia · Evoluzione umana · Approfondimento",
-        "summary": "Un lavoro su Nature del 9 settembre identifica resti denisoviani nella grotta di Bianfu, nella Cina sudoccidentale. Dopo aver esaminato morfologicamente oltre 60.000 frammenti, i ricercatori hanno selezionato reperti per le analisi molecolari: le proteine hanno attribuito ai Denisoviani due frammenti cranici, una porzione di radio e due denti. Gli strati dei resti identificati risalgono a circa 167.000–134.000 anni fa.",
-        "why_it_matters": "La scoperta colma un vuoto geografico tra aree asiatiche in cui questa popolazione umana era già documentata. Il frammento del braccio aggiunge informazioni anatomiche oltre ai più noti denti e crani.",
-        "source": "Nature · Rao, Xing, Ruan e colleghi",
-        "url": "https://www.nature.com/articles/s41586-026-10976-9",
-        "published": "2026-09-09",
-        "limitations": "L’attribuzione è basata sulle proteine, non su nuovi genomi completi. Gli stessi autori chiedono ulteriori dati di DNA antico per ricostruire le linee di discendenza e il contributo alle popolazioni moderne. Lettura di approfondimento, non scoperta annunciata oggi."
+        "title": "Le strade romane come rete: la geografia dell’impero continua a lasciare tracce",
+        "category": "Archeologia · Approfondimento",
+        "summary": "Uno studio di Adam Pažout e colleghi, pubblicato il 15 settembre su Nature Communications, analizza quantitativamente la struttura della rete stradale romana. Le strade risultano più rettilinee dove il terreno lo consente, ma meno delle strade moderne. Le capitali provinciali occupavano posizioni importanti per collegare territori diversi; inoltre, la densità delle vie antiche è correlata a quella delle grandi strade odierne.",
+        "why_it_matters": "Guardare ai collegamenti, oltre che ai monumenti, aiuta a ricostruire come circolavano persone, merci e idee. La rete mostra un impero fatto anche di centri provinciali e vincoli del paesaggio.",
+        "source": "Nature Communications · Adam Pažout e colleghi",
+        "url": "https://www.nature.com/articles/s41467-026-75453-3",
+        "published": "2026-09-15",
+        "limitations": "Approfondimento, non notizia delle ultime 24 ore. L’analisi è esplorativa: una correlazione con le strade moderne non dimostra da sola una continuità causale ininterrotta dall’età romana."
+      }
+    ],
+    "clima_spazio": [
+      {
+        "title": "Artico: minimo annuale a 4,6 milioni di km², fra i dieci più bassi",
+        "category": "Clima · Ghiacci",
+        "summary": "NASA riferisce che il ghiaccio marino artico ha raggiunto il minimo del 2026 il 12 settembre: circa 4,6 milioni di chilometri quadrati. Il valore si colloca al decimo posto fra i più bassi, a pari merito con 2008, 2010 e 2025, nella serie satellitare iniziata alla fine del 1978. Tutti i venti minimi più bassi ricadono negli ultimi vent’anni, dal 2007 al 2026.",
+        "why_it_matters": "L’assenza di un nuovo record annuale non equivale a un ritorno alle condizioni precedenti. La variabilità meteorologica si inserisce in una sequenza ormai persistente di estensioni ridotte.",
+        "source": "NASA · James Riordon",
+        "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+        "published": "2026-09-23",
+        "limitations": "Il dato riguarda l’estensione del ghiaccio marino, non il suo volume né la massa della calotta groenlandese. Il minimo si è verificato il 12 settembre; il rapporto è del 23."
+      },
+      {
+        "title": "Hubble aspetta di rivedere Athena: la stessa supernova, con la luce in ritardo",
+        "category": "Spazio · Astronomia",
+        "summary": "Hubble sta osservando l’ammasso MACS J0417 per cercare una nuova apparizione della supernova Athena, scoperta da Webb nel 2025. La gravità dell’ammasso devia la luce lungo percorsi differenti: immagini dello stesso evento possono arrivare con mesi o anni di distanza. La finestra prevista per la ricomparsa va da questo periodo ai primi di marzo 2027. La campagna accompagna il traguardo delle 200.000 orbite di Hubble, raggiunto il 19 settembre.",
+        "why_it_matters": "Misurare questi ritardi consente di studiare la distribuzione della massa che fa da lente e di contribuire alle misure dell’espansione dell’universo. Si osserva un evento passato attraverso più percorsi cosmici.",
+        "source": "NASA · missione Hubble",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+        "published": "2026-09-23",
+        "limitations": "La ricomparsa è attesa, non già confermata. Le previsioni dipendono dal modello della lente gravitazionale."
       }
     ],
     "motogp": [
       {
-        "title": "Martín evita l’intervento prima del Giappone, ma non si considera al 100%",
-        "category": "MotoGP · Aprilia",
-        "summary": "Dopo i problemi all’avambraccio accusati a Misano, Jorge Martín ha deciso di non operarsi prima del Gran Premio del Giappone. Nel resoconto ufficiale MotoGP del 22 settembre, il pilota Aprilia dice di sentirsi meglio dopo l’Austria, pur senza essere completamente recuperato. Punta sul riposo prima della fase con cinque Gran Premi in sei settimane.",
-        "why_it_matters": "Il seguito della gara austriaca riguarda ora la tenuta fisica del leader: a Motegi Martín arriva con 12 punti su Marc Márquez e 42 sul compagno Marco Bezzecchi. Evitare una pausa chirurgica aiuta la continuità, ma non elimina il problema da seguire.",
-        "source": "MotoGP · fonte ufficiale",
-        "url": "https://www.motogp.com/en/news/2026/09/22/martin-not-at-100-but-no-surgery-needed-ahead-of-japanese-grand-prix/1091583",
-        "published": "2026-09-22",
-        "limitations": "Le condizioni e la scelta di non operarsi sono descritte dal pilota. Non sono una garanzia di pieno recupero o una previsione dei risultati in Giappone."
-      }
-    ],
-    "fotografia_cultura": [
-      {
-        "title": "Sole, ISS e un aereo: quando la foto preparata incontra l’imprevisto",
-        "category": "Fotografia · Astrofotografia",
-        "summary": "L’immagine scelta da NASA APOD il 22 settembre è di Petr Horálek, accreditato con l’Istituto di fisica di Opava. Lo scatto, realizzato in giugno da Prasek nella Repubblica Ceca, era stato pianificato per cogliere il transito della Stazione spaziale internazionale davanti al Sole con precisione inferiore al secondo. Durante l’esposizione è entrata nell’inquadratura anche la sagoma di un aereo.",
-        "why_it_matters": "È una lettura visiva sul rapporto fra preparazione e caso: la precisione rende possibile la fotografia, mentre l’elemento non previsto ne cambia il racconto. Il link permette di osservare e confrontare le tre scale dell’immagine originale.",
-        "source": "NASA APOD · fotografia di Petr Horálek",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-22-chance-triple-alignment-plane-space-station-sun/",
-        "published": "2026-09-22",
-        "limitations": "La data del 22 settembre riguarda la selezione APOD; lo scatto è di giugno. L’immagine è indicata come protetta da copyright e viene qui segnalata tramite link, senza riprodurla."
+        "title": "Dal 2027 niente prove di partenza all’uscita della pit lane",
+        "category": "MotoGP · Regolamento",
+        "summary": "La Grand Prix Commission ha deciso di vietare dal 2027 le prove di partenza all’uscita della corsia box in tutti i circuiti. Il divieto era già applicato nella maggior parte delle piste: la decisione uniforma la regola. La comunicazione del 23 settembre aggiorna anche le concessioni Moto2: con la nuova specifica del motore Triumph e i nuovi telai, le posizioni dei costruttori saranno azzerate e rivalutate a metà stagione.",
+        "why_it_matters": "Per seguire il prossimo campionato è utile distinguere le modifiche operative comuni dalle misure Moto2 pensate per riequilibrare i costruttori. Il cambiamento sulle partenze entrerà in vigore nel 2027.",
+        "source": "MotoGP · Grand Prix Commission",
+        "url": "https://www.motogp.com/en/news/2026/09/23/pitlane-exit-practice-starts-banned-from-2027-moto2-concessions-updated-decisions-of-the-grand-prix-commission/1092200",
+        "published": "2026-09-23"
       }
     ]
   },
