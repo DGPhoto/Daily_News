@@ -1,0 +1,156 @@
+{
+  "status": "published",
+  "date": "2026-09-25",
+  "updated": "2026-09-25T03:04:30Z",
+  "title": "La valutazione danese sulla Russia, l’Europa e il pensiero critico",
+  "summary": "Undici letture per il venerdì. Apriamo con la nuova valutazione dell’intelligence danese e il ruolo americano nella NATO, poi Italia e sicurezza alimentare. L’editoriale è di Comfort Ero su El País. Nelle sezioni: AI e apprendimento, gesti osservati dal cervello, ADHD adulto, una lettura sulla preistoria, vulcani visti dallo spazio, Mugello e una fotografia costruita con 200 ore di osservazioni.",
+  "top_stories": [
+    {
+      "title": "La Danimarca aggiorna il rischio russo: attacchi limitati poco probabili, ma più plausibili",
+      "category": "Danimarca · Sicurezza",
+      "summary": "Il servizio d’intelligence militare danese FE ha pubblicato il 24 settembre una nuova valutazione: prevede un’intensificazione degli attacchi ibridi russi e giudica basso, ma crescente, il rischio di azioni militari limitate contro paesi NATO, anche mentre prosegue la guerra in Ucraina. Distingue questo scenario da una vera invasione, per la quale continua a non vedere indicazioni e che considera altamente improbabile. È un aggiornamento sostanziale rispetto al dibattito sulle minacce raccontato ieri.",
+      "why_it_matters": "La distinzione riguarda scala e obiettivi: colpire infrastrutture o mettere alla prova la risposta collettiva richiederebbe capacità diverse da una guerra regionale. Per la Danimarca contano sia la protezione interna sia la presenza alleata nel Baltico.",
+      "source": "FE · Danish Defence Intelligence Service",
+      "url": "https://www.fe-ddis.dk/da/nyheder/2026/vurdering-af-truslen-fra-rusland/",
+      "published": "2026-09-24",
+      "limitations": "È una valutazione d’intelligence, non la conferma di un attacco deciso o imminente. Le ipotesi dipendono anche da come Mosca interpreta la disponibilità della NATO a rispondere insieme.",
+      "additional_sources": [
+        {
+          "name": "Valutazione integrale in inglese · PDF",
+          "url": "https://www.fe-ddis.dk/globalassets/fe/dokumenter/2026/trusselsvurderinger/-assessment-of-the-threat-from-russia-.pdf"
+        },
+        {
+          "name": "Comando della difesa danese · risposta alla valutazione",
+          "url": "https://www.forsvaret.dk/da/nyheder/2026/kommentar-vedrorende-ny-trusselsvurdering-fra-fe/"
+        }
+      ]
+    },
+    {
+      "title": "Il comandante NATO: contributo americano ancora essenziale, ma più limitato",
+      "category": "Europa · NATO",
+      "summary": "Il comandante supremo alleato in Europa, generale Alexus Grynkewich, ha detto a Reuters che gli Stati Uniti continueranno a fornire capacità critiche ma più limitate, mentre gli europei assumeranno un ruolo maggiore nella difesa del continente. L’intervista è avvenuta mentre si recava a Norfolk per il passaggio di un comando NATO da un viceammiraglio americano a un generale britannico.",
+      "why_it_matters": "Il problema europeo non è soltanto spendere di più: occorre capire quali capacità dovranno essere disponibili quando cambierà la distribuzione dei compiti. La dichiarazione rende esplicita la direzione della transizione.",
+      "source": "Reuters · Sabine Siebold, via MarketScreener",
+      "url": "https://www.marketscreener.com/news/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says-ce785aded189ff21",
+      "published": "2026-09-24",
+      "limitations": "Il breve resoconto non quantifica riduzioni di truppe o mezzi e non fornisce un calendario. Non va letto come annuncio del ritiro americano dalla NATO."
+    },
+    {
+      "title": "Italia e Croazia: proteggere fertilizzanti e cibo lungo le rotte sotto pressione",
+      "category": "Italia · Sicurezza alimentare",
+      "summary": "A New York Italia e Croazia hanno riunito la Coalizione di Roma sull’accesso ai fertilizzanti e la sicurezza alimentare. La dichiarazione del 24 settembre collega le difficoltà degli approvvigionamenti alle tensioni presso Hormuz, Bab el-Mandeb e il Mar Rosso, oltre alle interruzioni nel Mar Nero durante la guerra russa contro l’Ucraina. Le priorità indicate sono commercio aperto, minori ostacoli logistici e diversificazione di rotte e fornitori.",
+      "why_it_matters": "Il legame con il Mediterraneo e l’Europa è concreto: difficoltà nei fertilizzanti possono trasferirsi alla produzione agricola e all’accessibilità del cibo. I partecipanti sottolineano l’esposizione particolarmente forte dei paesi africani già in difficoltà.",
+      "source": "Farnesina · dichiarazione congiunta Italia-Croazia",
+      "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/09/seconda-riunione-della-coalizione-di-roma-per-laccesso-ai-fertilizzanti-e-la-sicurezza-alimentare-dichiarazione-dei-co-presidenti-italia-e-croazia/",
+      "published": "2026-09-24",
+      "limitations": "Il documento espone priorità e impegni diplomatici: non dimostra che le rotte siano state messe in sicurezza o che i prezzi siano già diminuiti."
+    },
+    {
+      "title": "Comfort Ero: il declino dell’ONU dipende anche da chi dice di volerla salvare",
+      "category": "Editoriale · Opinione · Geopolitica",
+      "summary": "Su El País del 24 settembre, Comfort Ero, presidente dell’International Crisis Group, sostiene che la crisi dell’ONU sia anche un problema di azione collettiva. Alla responsabilità delle grandi potenze affianca quella dei governi che celebrano il multilateralismo, ma riducono gli aiuti o preferiscono altri tavoli. La scelta del successore di António Guterres, nella sua lettura, può rilanciare l’organizzazione soltanto se accompagnata da sostegno politico e risorse per la diplomazia e le iniziative di pace.",
+      "why_it_matters": "L’editoriale offre un criterio per leggere i discorsi dell’Assemblea generale: confrontare le dichiarazioni con denaro, impegni e disponibilità ad appoggiare la mediazione.",
+      "source": "El País · Comfort Ero",
+      "url": "https://english.elpais.com/opinion/2026-09-24/the-uns-decline-is-a-choice.html",
+      "published": "2026-09-24",
+      "limitations": "Editoriale · Opinione. La tesi e i giudizi sono dell’autrice. Maggiore sostegno può rafforzare l’ONU, ma non elimina automaticamente i veti e i conflitti d’interesse tra gli Stati."
+    }
+  ],
+  "sections": {
+    "ai": [
+      {
+        "title": "AI e pensiero critico: fare bene un compito non significa averlo imparato",
+        "category": "AI · Apprendimento",
+        "summary": "Un approfondimento di Helen Pearson su Nature del 23 settembre distingue la prestazione assistita dall’apprendimento che rimane quando l’AI viene tolta. Gli studiosi intervistati spiegano che ragionare criticamente richiede conoscenze del campo e pratica: non è una capacità generica trasferibile senza sforzo. Gli strumenti possono aiutare se propongono feedback e problemi, oppure sottrarre l’esercizio necessario quando consegnano direttamente le risposte.",
+        "why_it_matters": "La domanda utile per scuola e uso personale è quali passaggi mentali restano a chi impara: formulare ipotesi, confrontare alternative, motivare una conclusione. Il risultato prodotto dal chatbot non misura queste capacità.",
+        "source": "Nature · Helen Pearson, News Feature",
+        "url": "https://www.nature.com/articles/d41586-026-02930-6",
+        "published": "2026-09-23",
+        "limitations": "È un approfondimento giornalistico sulla ricerca, non un nuovo esperimento. La stessa rassegna sottolinea risultati contrastanti e scarsità di studi rigorosi di lungo periodo: non dimostra un declino cognitivo inevitabile per ogni utilizzatore."
+      }
+    ],
+    "psicologia": [
+      {
+        "title": "Gesti umani e robotici: il cervello risponde per gradi",
+        "category": "Psicologia · Percezione dei gesti",
+        "summary": "Uno studio PNAS, pubblicato online il 21 settembre e presentato da Brown questa settimana, ha registrato singoli neuroni in due persone con tetraplegia dotate di interfacce cerebrali. Osservando prese compiute da mani realistiche, mani robotiche e forme più astratte, l’attività motoria cresceva con la somiglianza umana. Quando i partecipanti provavano essi stessi a compiere il gesto, quella differenza diventava molto meno marcata.",
+        "why_it_matters": "Il risultato suggerisce una risposta distribuita e graduata, più complessa dell’idea popolare di cellule che semplicemente rispecchiano un’azione. Può aiutare a progettare il feedback visivo delle protesi controllate dal cervello.",
+        "source": "PNAS · Jacob Gusman e colleghi",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2537457123",
+        "published": "2026-09-21",
+        "limitations": "Due partecipanti sono un campione molto piccolo e clinicamente specifico. Il lavoro non misura empatia, intenzioni nascoste o capacità di leggere il linguaggio del corpo; servono repliche.",
+        "additional_sources": [
+          {
+            "name": "Brown University · spiegazione dello studio",
+            "url": "https://www.brown.edu/news/2026-09-23/braingate-mirror-neurons"
+          }
+        ]
+      },
+      {
+        "title": "ADHD adulto e gioco d’azzardo: i sintomi, da soli, non raccontano tutta la storia",
+        "category": "Psicologia · ADHD adulto",
+        "summary": "Uno studio trasversale su 83 adulti con diagnosi clinica di ADHD, prima dell’avvio del metilfenidato, ha confrontato sintomi, alfabetizzazione finanziaria e rischio legato al gioco d’azzardo. Nel campione la gravità dei sintomi non risultava direttamente associata al rischio. Una maggiore conoscenza finanziaria era associata a un rischio minore in una delle analisi, ma il risultato non rimaneva statisticamente significativo nella verifica bootstrap.",
+        "why_it_matters": "È un esempio di quanto sia facile trasformare un’associazione fragile in una promessa pratica. La diagnosi non basta a descrivere le differenze individuali nelle decisioni economiche.",
+        "source": "Scientific Reports · Çağrı Hamurcu, Mehmet Öztürk e Hayriye Dilek Hamurcu",
+        "url": "https://www.nature.com/articles/s41598-026-72538-3",
+        "published": "2026-09-23",
+        "limitations": "Campione limitato, fotografia di un solo momento e risultati non robusti a tutte le analisi. Non prova che un corso finanziario riduca il gioco problematico, né valuta l’effetto dei farmaci. La versione accettata è pubblicata anticipatamente e può ricevere modifiche editoriali."
+      }
+    ],
+    "antropologia": [
+      {
+        "title": "Prima dell’agricoltura: i denti conservano tracce dell’uso del betel",
+        "category": "Antropologia · Approfondimento",
+        "summary": "Un lavoro di Science Advances del 9 settembre esamina i resti di due cacciatori-raccoglitori di Sulawesi, in Indonesia. Gli autori collegano particolari lesioni dentarie all’abitudine di tenere in bocca noci di betel intere; le analisi biomolecolari sono compatibili con questa interpretazione. L’individuo più antico è datato in un intervallo fra 25.000 e 16.000 anni fa. Esperimenti mostrano inoltre che la permanenza della noce in bocca può rilasciare arecolina anche senza le preparazioni impiegate nella masticazione moderna.",
+        "why_it_matters": "La ricerca estende molto indietro nel tempo una possibile pratica legata a una pianta psicoattiva, interrogando il rapporto tra conoscenza delle piante, abitudini e cultura prima dell’agricoltura.",
+        "source": "Science Advances · Adam Brumm e colleghi",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13557070/",
+        "published": "2026-09-09",
+        "limitations": "Lettura di approfondimento. Due individui non permettono di stabilire quanto fosse diffusa la pratica né le sue motivazioni. L’intervallo di datazione non equivale a una data esatta di 25.000 anni fa."
+      }
+    ],
+    "clima_spazio": [
+      {
+        "title": "Diciassette immagini radar raccontano un vulcano che cambia forma",
+        "category": "Spazio · Osservazione della Terra",
+        "summary": "La missione NASA-ISRO NISAR ha ricostruito l’espansione delle colate del Krasheninnikov, in Kamchatka, con 17 immagini tra dicembre 2025 e agosto 2026. Il filmato, presentato il 24 settembre, mostra la lava riempire una caldera interna, superarla e allargarsi. Il satellite torna a osservare la zona due volte ogni dodici giorni, da direzioni diverse; nei fotogrammi ogni pixel rappresenta circa dieci metri per dieci.",
+        "why_it_matters": "La regolarità delle misure permette di seguire luoghi remoti poco coperti dagli strumenti a terra. Per i rischi naturali conta vedere l’evoluzione, non soltanto ottenere una bella immagine isolata.",
+        "source": "NASA / Jet Propulsion Laboratory · missione NISAR",
+        "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+        "published": "2026-09-24",
+        "limitations": "È una sequenza di misure radar elaborata in animazione, non un filmato ottico continuo. Mostra cambiamenti già avvenuti e non costituisce, da sola, una previsione della prossima eruzione."
+      }
+    ],
+    "motogp": [
+      {
+        "title": "Mugello confermato fino al 2031, Portimão fino al 2029",
+        "category": "MotoGP · Calendario",
+        "summary": "MotoGP ha annunciato un accordo di cinque anni che mantiene il Gran Premio d’Italia al Mugello fino al termine della stagione 2031. Un secondo accordo conferma l’Algarve International Circuit in Portogallo per altre tre stagioni, fino al 2029. Sono conferme ufficiali sulle sedi, distinte dalle indiscrezioni di mercato e dalle modifiche regolamentari raccontate ieri.",
+        "why_it_matters": "Per chi segue Ducati, Aprilia e il campionato dai circuiti europei, i rinnovi danno continuità a due appuntamenti riconoscibili. Il Mugello resta il riferimento del Gran Premio d’Italia anche nel prossimo ciclo tecnico.",
+        "source": "MotoGP · comunicati ufficiali",
+        "url": "https://www.motogp.com/en/news/2026/09/24/motogp-to-race-in-portugal-until-2029/1092228",
+        "published": "2026-09-24",
+        "additional_sources": [
+          {
+            "name": "MotoGP · rinnovo del Mugello",
+            "url": "https://www.motogp.com/en/news/2026/09/24/mugello-to-remain-home-of-motogps-italian-grand-prix-as-new-five-year-deal-is-confirmed/1092272"
+          }
+        ],
+        "limitations": "Gli accordi fissano la permanenza delle sedi, non tutte le date dei futuri Gran Premi. Il testo sul Mugello riporta 23 settembre, pur trovandosi in un URL del 24."
+      }
+    ],
+    "fotografia_cultura": [
+      {
+        "title": "Duecento ore per mostrare i resti di cinque stelle esplose",
+        "category": "Fotografia · Astrofotografia",
+        "summary": "L’immagine scelta da APOD il 24 settembre, di Stephane Vetter e Yann Sainty, riunisce circa 200 ore di osservazioni dall’osservatorio di Oukaïmeden, in Marocco. Copre un’area dell’Auriga equivalente a circa mille Lune piene e rivela cinque resti di supernova. La versione annotata aiuta a separare i filamenti: il rosso rappresenta l’idrogeno e il blu l’ossigeno.",
+        "why_it_matters": "È una lettura visiva sul tempo necessario a far emergere strutture debolissime. La fotografia mette nello stesso campo eventi indipendenti, avvenuti a distanze ed epoche diverse: la vicinanza nell’immagine non implica vicinanza fisica.",
+        "source": "NASA APOD · Stephane Vetter e Yann Sainty; testo di Cecilia Chirenti",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+        "published": "2026-09-24",
+        "limitations": "La data riguarda la selezione APOD, non un’unica esposizione. L’immagine è protetta da copyright: viene segnalata attraverso il link originale, senza riproduzione."
+      }
+    ]
+  },
+  "watchlist": []
+}
