@@ -1,130 +1,154 @@
 {
   "status": "published",
-  "date": "2026-09-24",
-  "updated": "2026-09-24T03:06:12Z",
-  "title": "Nucleare, sicurezza europea e scoperte da verificare",
-  "summary": "Dieci letture per il caffè del giovedì: il voto sul nucleare italiano, la pressione russa sull’Europa e l’accordo sui droni tra Kyiv e Helsinki. Poi AI in laboratorio, memoria e lavoro, ghiacci artici, Hubble e le regole MotoGP del 2027. Due letture da conservare: le strade romane viste come rete e un editoriale del BMJ sull’accesso al supporto per l’ADHD.",
+  "date": "2026-09-25",
+  "updated": "2026-09-25T03:04:30Z",
+  "title": "La valutazione danese sulla Russia, l’Europa e il pensiero critico",
+  "summary": "Undici letture per il venerdì. Apriamo con la nuova valutazione dell’intelligence danese e il ruolo americano nella NATO, poi Italia e sicurezza alimentare. L’editoriale è di Comfort Ero su El País. Nelle sezioni: AI e apprendimento, gesti osservati dal cervello, ADHD adulto, una lettura sulla preistoria, vulcani visti dallo spazio, Mugello e una fotografia costruita con 200 ore di osservazioni.",
   "top_stories": [
     {
-      "title": "Nucleare: il Senato approva la delega, ora contano le regole attuative",
-      "category": "Italia · Energia",
-      "summary": "Il 23 settembre il Senato ha approvato definitivamente il disegno di legge delega sul nucleare, già passato alla Camera: 81 voti favorevoli e 51 contrari, secondo il resoconto di Repubblica. Si conclude così il passaggio parlamentare segnalato nei briefing precedenti. Il provvedimento affida al Governo la definizione del quadro per l’energia nucleare sostenibile; l’approvazione non equivale all’apertura di cantieri o all’entrata in funzione di centrali.",
-      "why_it_matters": "La scelta politica diventa un percorso normativo. Per valutarne gli effetti serviranno i decreti attuativi e le decisioni concrete su autorizzazioni, sicurezza, costi e gestione dei rifiuti.",
-      "source": "Senato della Repubblica · resoconto del 23 settembre",
-      "url": "https://www.parlamento.it/show-doc?id=0&idoggetto=0&leg=0&part=doc_dc-ressten_rs-ddltit_sddeadddl1924dagimdens&parthttp=doc_dc-ressten_rs&tipodoc=hotresaula",
-      "published": "2026-09-23",
+      "title": "La Danimarca aggiorna il rischio russo: attacchi limitati poco probabili, ma più plausibili",
+      "category": "Danimarca · Sicurezza",
+      "summary": "Il servizio d’intelligence militare danese FE ha pubblicato il 24 settembre una nuova valutazione: prevede un’intensificazione degli attacchi ibridi russi e giudica basso, ma crescente, il rischio di azioni militari limitate contro paesi NATO, anche mentre prosegue la guerra in Ucraina. Distingue questo scenario da una vera invasione, per la quale continua a non vedere indicazioni e che considera altamente improbabile. È un aggiornamento sostanziale rispetto al dibattito sulle minacce raccontato ieri.",
+      "why_it_matters": "La distinzione riguarda scala e obiettivi: colpire infrastrutture o mettere alla prova la risposta collettiva richiederebbe capacità diverse da una guerra regionale. Per la Danimarca contano sia la protezione interna sia la presenza alleata nel Baltico.",
+      "source": "FE · Danish Defence Intelligence Service",
+      "url": "https://www.fe-ddis.dk/da/nyheder/2026/vurdering-af-truslen-fra-rusland/",
+      "published": "2026-09-24",
+      "limitations": "È una valutazione d’intelligence, non la conferma di un attacco deciso o imminente. Le ipotesi dipendono anche da come Mosca interpreta la disponibilità della NATO a rispondere insieme.",
       "additional_sources": [
         {
-          "name": "Repubblica · voto finale",
-          "url": "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/amp/"
+          "name": "Valutazione integrale in inglese · PDF",
+          "url": "https://www.fe-ddis.dk/globalassets/fe/dokumenter/2026/trusselsvurderinger/-assessment-of-the-threat-from-russia-.pdf"
+        },
+        {
+          "name": "Comando della difesa danese · risposta alla valutazione",
+          "url": "https://www.forsvaret.dk/da/nyheder/2026/kommentar-vedrorende-ny-trusselsvurdering-fra-fe/"
         }
       ]
     },
     {
-      "title": "Sabotaggi e incursioni: i ministri europei distinguono la pressione russa da un attacco alla NATO",
-      "category": "Europa · Sicurezza",
-      "summary": "A margine dell’Assemblea generale ONU, ministri europei e Kaja Kallas hanno descritto a Reuters una crescita di sabotaggi, incursioni e operazioni attribuite alla Russia per indebolire il sostegno all’Ucraina. Il ministro estone Margus Tsahkna ha però dichiarato di non vedere Mosca capace o in preparazione di un’aggressione militare convenzionale imminente contro l’Alleanza. La Romania distingue inoltre il rischio prodotto dai droni dalla prova di essere deliberatamente presa di mira.",
-      "why_it_matters": "Sono valutazioni su minacce diverse, che richiedono risposte diverse: proteggere infrastrutture e spazio aereo non significa considerare già imminente una guerra convenzionale sul territorio NATO.",
-      "source": "Reuters · John Irish e Tom Balmforth, via MarketScreener",
-      "url": "https://www.marketscreener.com/news/europeans-warn-of-rising-russian-sabotage-but-see-no-imminent-nato-attack-ce785ad9d080f020",
-      "published": "2026-09-23",
-      "limitations": "Le attribuzioni e le valutazioni sulle intenzioni russe sono quelle dei responsabili intervistati. Il Cremlino nega operazioni di sabotaggio nei paesi NATO e progetti di confronto militare."
+      "title": "Il comandante NATO: contributo americano ancora essenziale, ma più limitato",
+      "category": "Europa · NATO",
+      "summary": "Il comandante supremo alleato in Europa, generale Alexus Grynkewich, ha detto a Reuters che gli Stati Uniti continueranno a fornire capacità critiche ma più limitate, mentre gli europei assumeranno un ruolo maggiore nella difesa del continente. L’intervista è avvenuta mentre si recava a Norfolk per il passaggio di un comando NATO da un viceammiraglio americano a un generale britannico.",
+      "why_it_matters": "Il problema europeo non è soltanto spendere di più: occorre capire quali capacità dovranno essere disponibili quando cambierà la distribuzione dei compiti. La dichiarazione rende esplicita la direzione della transizione.",
+      "source": "Reuters · Sabine Siebold, via MarketScreener",
+      "url": "https://www.marketscreener.com/news/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says-ce785aded189ff21",
+      "published": "2026-09-24",
+      "limitations": "Il breve resoconto non quantifica riduzioni di truppe o mezzi e non fornisce un calendario. Non va letto come annuncio del ritiro americano dalla NATO."
     },
     {
-      "title": "Ucraina e Finlandia: Zelensky annuncia un accordo sui droni",
-      "category": "Geopolitica · Ucraina",
-      "summary": "Zelensky ha annunciato di aver firmato a New York un accordo sui droni con il presidente finlandese Alexander Stubb. Secondo il presidente ucraino, l’obiettivo è combinare l’esperienza sviluppata da Kyiv con le capacità industriali dei partner, condividendo tecnologie utili anche alla protezione di infrastrutture e trasporti. Reuters riferisce l’annuncio dopo l’incontro a margine dell’ONU.",
-      "why_it_matters": "La cooperazione può trasformare l’esperienza ucraina in capacità produttiva europea. Per Helsinki è anche un tema di sicurezza regionale; per Kyiv, una possibile strada per ampliare la scala industriale.",
-      "source": "Reuters · via MarketScreener",
-      "url": "https://www.marketscreener.com/news/ukraine-s-zelenskiy-says-he-signed-drone-deal-with-finnish-president-ce785aded98cf624",
-      "published": "2026-09-23",
-      "limitations": "Il resoconto non fornisce quantità, valore economico o calendario delle consegne. La firma annunciata non dimostra ancora che nuovi sistemi siano operativi."
+      "title": "Italia e Croazia: proteggere fertilizzanti e cibo lungo le rotte sotto pressione",
+      "category": "Italia · Sicurezza alimentare",
+      "summary": "A New York Italia e Croazia hanno riunito la Coalizione di Roma sull’accesso ai fertilizzanti e la sicurezza alimentare. La dichiarazione del 24 settembre collega le difficoltà degli approvvigionamenti alle tensioni presso Hormuz, Bab el-Mandeb e il Mar Rosso, oltre alle interruzioni nel Mar Nero durante la guerra russa contro l’Ucraina. Le priorità indicate sono commercio aperto, minori ostacoli logistici e diversificazione di rotte e fornitori.",
+      "why_it_matters": "Il legame con il Mediterraneo e l’Europa è concreto: difficoltà nei fertilizzanti possono trasferirsi alla produzione agricola e all’accessibilità del cibo. I partecipanti sottolineano l’esposizione particolarmente forte dei paesi africani già in difficoltà.",
+      "source": "Farnesina · dichiarazione congiunta Italia-Croazia",
+      "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/09/seconda-riunione-della-coalizione-di-roma-per-laccesso-ai-fertilizzanti-e-la-sicurezza-alimentare-dichiarazione-dei-co-presidenti-italia-e-croazia/",
+      "published": "2026-09-24",
+      "limitations": "Il documento espone priorità e impegni diplomatici: non dimostra che le rotte siano state messe in sicurezza o che i prezzi siano già diminuiti."
+    },
+    {
+      "title": "Comfort Ero: il declino dell’ONU dipende anche da chi dice di volerla salvare",
+      "category": "Editoriale · Opinione · Geopolitica",
+      "summary": "Su El País del 24 settembre, Comfort Ero, presidente dell’International Crisis Group, sostiene che la crisi dell’ONU sia anche un problema di azione collettiva. Alla responsabilità delle grandi potenze affianca quella dei governi che celebrano il multilateralismo, ma riducono gli aiuti o preferiscono altri tavoli. La scelta del successore di António Guterres, nella sua lettura, può rilanciare l’organizzazione soltanto se accompagnata da sostegno politico e risorse per la diplomazia e le iniziative di pace.",
+      "why_it_matters": "L’editoriale offre un criterio per leggere i discorsi dell’Assemblea generale: confrontare le dichiarazioni con denaro, impegni e disponibilità ad appoggiare la mediazione.",
+      "source": "El País · Comfort Ero",
+      "url": "https://english.elpais.com/opinion/2026-09-24/the-uns-decline-is-a-choice.html",
+      "published": "2026-09-24",
+      "limitations": "Editoriale · Opinione. La tesi e i giudizi sono dell’autrice. Maggiore sostegno può rafforzare l’ONU, ma non elimina automaticamente i veti e i conflitti d’interesse tra gli Stati."
     }
   ],
   "sections": {
     "ai": [
       {
-        "title": "Claude individua un sistema enzimatico: la scoperta interessante è ancora una domanda aperta",
-        "category": "AI · Ricerca",
-        "summary": "Anthropic ha descritto un sistema chiamato ART, individuato facendo analizzare a Claude sequenze genetiche di virus che infettano batteri. Il modello ha associato una trascrittasi inversa già conosciuta a ripetizioni di DNA e a una proteina accessoria: la novità riguarda questa organizzazione, non l’invenzione di un enzima dal nulla. I ricercatori umani hanno eseguito le verifiche di laboratorio; i primi esperimenti mostrano che le ripetizioni vengono espresse come piccoli RNA distinti.",
-        "why_it_matters": "È un esempio concreto di AI usata per selezionare anomalie e formulare ipotesi da sottoporre agli esperimenti. Il valore scientifico dipenderà da ciò che il sistema effettivamente fa.",
-        "source": "Anthropic · comunicazione e preprint",
-        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "title": "AI e pensiero critico: fare bene un compito non significa averlo imparato",
+        "category": "AI · Apprendimento",
+        "summary": "Un approfondimento di Helen Pearson su Nature del 23 settembre distingue la prestazione assistita dall’apprendimento che rimane quando l’AI viene tolta. Gli studiosi intervistati spiegano che ragionare criticamente richiede conoscenze del campo e pratica: non è una capacità generica trasferibile senza sforzo. Gli strumenti possono aiutare se propongono feedback e problemi, oppure sottrarre l’esercizio necessario quando consegnano direttamente le risposte.",
+        "why_it_matters": "La domanda utile per scuola e uso personale è quali passaggi mentali restano a chi impara: formulare ipotesi, confrontare alternative, motivare una conclusione. Il risultato prodotto dal chatbot non misura queste capacità.",
+        "source": "Nature · Helen Pearson, News Feature",
+        "url": "https://www.nature.com/articles/d41586-026-02930-6",
         "published": "2026-09-23",
-        "limitations": "Risultati preliminari presentati dall’azienda che sviluppa il modello. La funzione di ART resta sconosciuta: le somiglianze con CRISPR non dimostrano che sia già uno strumento di editing genetico o una terapia."
+        "limitations": "È un approfondimento giornalistico sulla ricerca, non un nuovo esperimento. La stessa rassegna sottolinea risultati contrastanti e scarsità di studi rigorosi di lungo periodo: non dimostra un declino cognitivo inevitabile per ogni utilizzatore."
       }
     ],
     "psicologia": [
       {
-        "title": "Lavoro discontinuo e memoria: uno studio segue sedici anni di traiettorie occupazionali",
-        "category": "Psicologia · Memoria",
-        "summary": "Un gruppo della Columbia ha collegato le storie lavorative 1998–2014 di 2.418 partecipanti statunitensi a una valutazione cognitiva del 2016. Secondo il comunicato sullo studio pubblicato in Alzheimer’s & Dementia, la discontinuità occupazionale era associata a risultati cognitivi peggiori negli uomini; nelle donne emergevano associazioni anche con il pensionamento anticipato e con memoria e funzioni esecutive. La continuità del lavoro appariva più rilevante della sola sensazione di sicurezza del posto.",
-        "why_it_matters": "La ricerca sposta l’attenzione dalla singola perdita di lavoro alla storia accumulata nel tempo, compresi vincoli economici e responsabilità di cura.",
-        "source": "Columbia University · comunicato su EurekAlert!",
-        "url": "https://www.eurekalert.org/news-releases/1145147",
-        "published": "2026-09-23",
+        "title": "Gesti umani e robotici: il cervello risponde per gradi",
+        "category": "Psicologia · Percezione dei gesti",
+        "summary": "Uno studio PNAS, pubblicato online il 21 settembre e presentato da Brown questa settimana, ha registrato singoli neuroni in due persone con tetraplegia dotate di interfacce cerebrali. Osservando prese compiute da mani realistiche, mani robotiche e forme più astratte, l’attività motoria cresceva con la somiglianza umana. Quando i partecipanti provavano essi stessi a compiere il gesto, quella differenza diventava molto meno marcata.",
+        "why_it_matters": "Il risultato suggerisce una risposta distribuita e graduata, più complessa dell’idea popolare di cellule che semplicemente rispecchiano un’azione. Può aiutare a progettare il feedback visivo delle protesi controllate dal cervello.",
+        "source": "PNAS · Jacob Gusman e colleghi",
+        "url": "https://www.pnas.org/doi/10.1073/pnas.2537457123",
+        "published": "2026-09-21",
+        "limitations": "Due partecipanti sono un campione molto piccolo e clinicamente specifico. Il lavoro non misura empatia, intenzioni nascoste o capacità di leggere il linguaggio del corpo; servono repliche.",
         "additional_sources": [
           {
-            "name": "Studio originale · DOI",
-            "url": "https://doi.org/10.1002/alz.71863"
+            "name": "Brown University · spiegazione dello studio",
+            "url": "https://www.brown.edu/news/2026-09-23/braingate-mirror-neurons"
           }
-        ],
-        "limitations": "Studio osservazionale: l’associazione non prova che andare in pensione provochi demenza. Salute preesistente e condizioni sociali possono influenzare sia lavoro sia cognizione. Sintesi basata sul comunicato universitario; non è una raccomandazione individuale sul pensionamento."
+        ]
       },
       {
-        "title": "ADHD: prima di un’altra revisione, rendere accessibile il supporto",
-        "category": "Editoriale · Opinione · ADHD",
-        "summary": "Nell’editoriale del BMJ del 29 maggio, Anita Thapar, Samuele Cortese e Lucy Clement chiedono al Governo britannico di attuare le raccomandazioni della task force ADHD. La loro tesi è che ripetere revisioni della prevalenza, senza intervenire sui servizi, prolunghi un bisogno già documentato. Gli autori collegano le lunghe attese alla crescita dell’assistenza privata e delle disuguaglianze; chiedono anche standard di qualità, vigilanza sui fornitori e dati migliori su diagnosi e accesso alle cure.",
-        "why_it_matters": "Una lettura utile per separare due discussioni spesso confuse: quanto siano accurate le diagnosi e se chi ha bisogno di supporto riesca davvero a ottenerlo.",
-        "source": "The BMJ · Anita Thapar, Samuele Cortese e Lucy Clement",
-        "url": "https://www.bmj.com/content/393/bmj-2026-089948",
-        "published": "2026-05-29",
-        "limitations": "Editoriale · Opinione. Lettura d’archivio, non aggiornamento sulla risposta del Governo a settembre. Gli autori hanno partecipato alla task force di cui sostengono le raccomandazioni; il testo riguarda soprattutto il sistema inglese."
+        "title": "ADHD adulto e gioco d’azzardo: i sintomi, da soli, non raccontano tutta la storia",
+        "category": "Psicologia · ADHD adulto",
+        "summary": "Uno studio trasversale su 83 adulti con diagnosi clinica di ADHD, prima dell’avvio del metilfenidato, ha confrontato sintomi, alfabetizzazione finanziaria e rischio legato al gioco d’azzardo. Nel campione la gravità dei sintomi non risultava direttamente associata al rischio. Una maggiore conoscenza finanziaria era associata a un rischio minore in una delle analisi, ma il risultato non rimaneva statisticamente significativo nella verifica bootstrap.",
+        "why_it_matters": "È un esempio di quanto sia facile trasformare un’associazione fragile in una promessa pratica. La diagnosi non basta a descrivere le differenze individuali nelle decisioni economiche.",
+        "source": "Scientific Reports · Çağrı Hamurcu, Mehmet Öztürk e Hayriye Dilek Hamurcu",
+        "url": "https://www.nature.com/articles/s41598-026-72538-3",
+        "published": "2026-09-23",
+        "limitations": "Campione limitato, fotografia di un solo momento e risultati non robusti a tutte le analisi. Non prova che un corso finanziario riduca il gioco problematico, né valuta l’effetto dei farmaci. La versione accettata è pubblicata anticipatamente e può ricevere modifiche editoriali."
       }
     ],
     "antropologia": [
       {
-        "title": "Le strade romane come rete: la geografia dell’impero continua a lasciare tracce",
-        "category": "Archeologia · Approfondimento",
-        "summary": "Uno studio di Adam Pažout e colleghi, pubblicato il 15 settembre su Nature Communications, analizza quantitativamente la struttura della rete stradale romana. Le strade risultano più rettilinee dove il terreno lo consente, ma meno delle strade moderne. Le capitali provinciali occupavano posizioni importanti per collegare territori diversi; inoltre, la densità delle vie antiche è correlata a quella delle grandi strade odierne.",
-        "why_it_matters": "Guardare ai collegamenti, oltre che ai monumenti, aiuta a ricostruire come circolavano persone, merci e idee. La rete mostra un impero fatto anche di centri provinciali e vincoli del paesaggio.",
-        "source": "Nature Communications · Adam Pažout e colleghi",
-        "url": "https://www.nature.com/articles/s41467-026-75453-3",
-        "published": "2026-09-15",
-        "limitations": "Approfondimento, non notizia delle ultime 24 ore. L’analisi è esplorativa: una correlazione con le strade moderne non dimostra da sola una continuità causale ininterrotta dall’età romana."
+        "title": "Prima dell’agricoltura: i denti conservano tracce dell’uso del betel",
+        "category": "Antropologia · Approfondimento",
+        "summary": "Un lavoro di Science Advances del 9 settembre esamina i resti di due cacciatori-raccoglitori di Sulawesi, in Indonesia. Gli autori collegano particolari lesioni dentarie all’abitudine di tenere in bocca noci di betel intere; le analisi biomolecolari sono compatibili con questa interpretazione. L’individuo più antico è datato in un intervallo fra 25.000 e 16.000 anni fa. Esperimenti mostrano inoltre che la permanenza della noce in bocca può rilasciare arecolina anche senza le preparazioni impiegate nella masticazione moderna.",
+        "why_it_matters": "La ricerca estende molto indietro nel tempo una possibile pratica legata a una pianta psicoattiva, interrogando il rapporto tra conoscenza delle piante, abitudini e cultura prima dell’agricoltura.",
+        "source": "Science Advances · Adam Brumm e colleghi",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13557070/",
+        "published": "2026-09-09",
+        "limitations": "Lettura di approfondimento. Due individui non permettono di stabilire quanto fosse diffusa la pratica né le sue motivazioni. L’intervallo di datazione non equivale a una data esatta di 25.000 anni fa."
       }
     ],
     "clima_spazio": [
       {
-        "title": "Artico: minimo annuale a 4,6 milioni di km², fra i dieci più bassi",
-        "category": "Clima · Ghiacci",
-        "summary": "NASA riferisce che il ghiaccio marino artico ha raggiunto il minimo del 2026 il 12 settembre: circa 4,6 milioni di chilometri quadrati. Il valore si colloca al decimo posto fra i più bassi, a pari merito con 2008, 2010 e 2025, nella serie satellitare iniziata alla fine del 1978. Tutti i venti minimi più bassi ricadono negli ultimi vent’anni, dal 2007 al 2026.",
-        "why_it_matters": "L’assenza di un nuovo record annuale non equivale a un ritorno alle condizioni precedenti. La variabilità meteorologica si inserisce in una sequenza ormai persistente di estensioni ridotte.",
-        "source": "NASA · James Riordon",
-        "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
-        "published": "2026-09-23",
-        "limitations": "Il dato riguarda l’estensione del ghiaccio marino, non il suo volume né la massa della calotta groenlandese. Il minimo si è verificato il 12 settembre; il rapporto è del 23."
-      },
-      {
-        "title": "Hubble aspetta di rivedere Athena: la stessa supernova, con la luce in ritardo",
-        "category": "Spazio · Astronomia",
-        "summary": "Hubble sta osservando l’ammasso MACS J0417 per cercare una nuova apparizione della supernova Athena, scoperta da Webb nel 2025. La gravità dell’ammasso devia la luce lungo percorsi differenti: immagini dello stesso evento possono arrivare con mesi o anni di distanza. La finestra prevista per la ricomparsa va da questo periodo ai primi di marzo 2027. La campagna accompagna il traguardo delle 200.000 orbite di Hubble, raggiunto il 19 settembre.",
-        "why_it_matters": "Misurare questi ritardi consente di studiare la distribuzione della massa che fa da lente e di contribuire alle misure dell’espansione dell’universo. Si osserva un evento passato attraverso più percorsi cosmici.",
-        "source": "NASA · missione Hubble",
-        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
-        "published": "2026-09-23",
-        "limitations": "La ricomparsa è attesa, non già confermata. Le previsioni dipendono dal modello della lente gravitazionale."
+        "title": "Diciassette immagini radar raccontano un vulcano che cambia forma",
+        "category": "Spazio · Osservazione della Terra",
+        "summary": "La missione NASA-ISRO NISAR ha ricostruito l’espansione delle colate del Krasheninnikov, in Kamchatka, con 17 immagini tra dicembre 2025 e agosto 2026. Il filmato, presentato il 24 settembre, mostra la lava riempire una caldera interna, superarla e allargarsi. Il satellite torna a osservare la zona due volte ogni dodici giorni, da direzioni diverse; nei fotogrammi ogni pixel rappresenta circa dieci metri per dieci.",
+        "why_it_matters": "La regolarità delle misure permette di seguire luoghi remoti poco coperti dagli strumenti a terra. Per i rischi naturali conta vedere l’evoluzione, non soltanto ottenere una bella immagine isolata.",
+        "source": "NASA / Jet Propulsion Laboratory · missione NISAR",
+        "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
+        "published": "2026-09-24",
+        "limitations": "È una sequenza di misure radar elaborata in animazione, non un filmato ottico continuo. Mostra cambiamenti già avvenuti e non costituisce, da sola, una previsione della prossima eruzione."
       }
     ],
     "motogp": [
       {
-        "title": "Dal 2027 niente prove di partenza all’uscita della pit lane",
-        "category": "MotoGP · Regolamento",
-        "summary": "La Grand Prix Commission ha deciso di vietare dal 2027 le prove di partenza all’uscita della corsia box in tutti i circuiti. Il divieto era già applicato nella maggior parte delle piste: la decisione uniforma la regola. La comunicazione del 23 settembre aggiorna anche le concessioni Moto2: con la nuova specifica del motore Triumph e i nuovi telai, le posizioni dei costruttori saranno azzerate e rivalutate a metà stagione.",
-        "why_it_matters": "Per seguire il prossimo campionato è utile distinguere le modifiche operative comuni dalle misure Moto2 pensate per riequilibrare i costruttori. Il cambiamento sulle partenze entrerà in vigore nel 2027.",
-        "source": "MotoGP · Grand Prix Commission",
-        "url": "https://www.motogp.com/en/news/2026/09/23/pitlane-exit-practice-starts-banned-from-2027-moto2-concessions-updated-decisions-of-the-grand-prix-commission/1092200",
-        "published": "2026-09-23"
+        "title": "Mugello confermato fino al 2031, Portimão fino al 2029",
+        "category": "MotoGP · Calendario",
+        "summary": "MotoGP ha annunciato un accordo di cinque anni che mantiene il Gran Premio d’Italia al Mugello fino al termine della stagione 2031. Un secondo accordo conferma l’Algarve International Circuit in Portogallo per altre tre stagioni, fino al 2029. Sono conferme ufficiali sulle sedi, distinte dalle indiscrezioni di mercato e dalle modifiche regolamentari raccontate ieri.",
+        "why_it_matters": "Per chi segue Ducati, Aprilia e il campionato dai circuiti europei, i rinnovi danno continuità a due appuntamenti riconoscibili. Il Mugello resta il riferimento del Gran Premio d’Italia anche nel prossimo ciclo tecnico.",
+        "source": "MotoGP · comunicati ufficiali",
+        "url": "https://www.motogp.com/en/news/2026/09/24/motogp-to-race-in-portugal-until-2029/1092228",
+        "published": "2026-09-24",
+        "additional_sources": [
+          {
+            "name": "MotoGP · rinnovo del Mugello",
+            "url": "https://www.motogp.com/en/news/2026/09/24/mugello-to-remain-home-of-motogps-italian-grand-prix-as-new-five-year-deal-is-confirmed/1092272"
+          }
+        ],
+        "limitations": "Gli accordi fissano la permanenza delle sedi, non tutte le date dei futuri Gran Premi. Il testo sul Mugello riporta 23 settembre, pur trovandosi in un URL del 24."
+      }
+    ],
+    "fotografia_cultura": [
+      {
+        "title": "Duecento ore per mostrare i resti di cinque stelle esplose",
+        "category": "Fotografia · Astrofotografia",
+        "summary": "L’immagine scelta da APOD il 24 settembre, di Stephane Vetter e Yann Sainty, riunisce circa 200 ore di osservazioni dall’osservatorio di Oukaïmeden, in Marocco. Copre un’area dell’Auriga equivalente a circa mille Lune piene e rivela cinque resti di supernova. La versione annotata aiuta a separare i filamenti: il rosso rappresenta l’idrogeno e il blu l’ossigeno.",
+        "why_it_matters": "È una lettura visiva sul tempo necessario a far emergere strutture debolissime. La fotografia mette nello stesso campo eventi indipendenti, avvenuti a distanze ed epoche diverse: la vicinanza nell’immagine non implica vicinanza fisica.",
+        "source": "NASA APOD · Stephane Vetter e Yann Sainty; testo di Cecilia Chirenti",
+        "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
+        "published": "2026-09-24",
+        "limitations": "La data riguarda la selezione APOD, non un’unica esposizione. L’immagine è protetta da copyright: viene segnalata attraverso il link originale, senza riproduzione."
       }
     ]
   },
