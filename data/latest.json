@@ -1,156 +1,248 @@
 {
   "status": "published",
-  "date": "2026-09-25",
-  "updated": "2026-09-25T03:04:30Z",
-  "title": "La valutazione danese sulla Russia, l’Europa e il pensiero critico",
-  "summary": "Undici letture per il venerdì. Apriamo con la nuova valutazione dell’intelligence danese e il ruolo americano nella NATO, poi Italia e sicurezza alimentare. L’editoriale è di Comfort Ero su El País. Nelle sezioni: AI e apprendimento, gesti osservati dal cervello, ADHD adulto, una lettura sulla preistoria, vulcani visti dallo spazio, Mugello e una fotografia costruita con 200 ore di osservazioni.",
+  "date": "2026-09-26",
+  "updated": "2026-09-26T03:05:00Z",
+  "title": "Daily David Weekly · 20–26 settembre 2026",
+  "summary": "La settimana ha portato l’Europa dalle valutazioni sulla minaccia russa a nuove decisioni sugli aiuti all’Ucraina: i fondi sbloccati venerdì sono un passo concreto, mentre la proposta di colloqui resta senza data. In Italia il nucleare supera il passaggio parlamentare, ma la realizzazione dipenderà dalle regole successive. Nella ricerca, AI e genetica offrono strumenti nuovi senza cancellare il bisogno di verifiche; in pista, Acosta conquista la prima vittoria domenicale. Questa prima Daily David Weekly raccoglie sedici letture sul periodo 20–26 settembre, con aggiornamenti disponibili al controllo del sabato mattina, approfondimenti d’archivio esplicitamente datati, un editoriale di Nature e l’agenda della prossima settimana.",
   "top_stories": [
     {
-      "title": "La Danimarca aggiorna il rischio russo: attacchi limitati poco probabili, ma più plausibili",
-      "category": "Danimarca · Sicurezza",
-      "summary": "Il servizio d’intelligence militare danese FE ha pubblicato il 24 settembre una nuova valutazione: prevede un’intensificazione degli attacchi ibridi russi e giudica basso, ma crescente, il rischio di azioni militari limitate contro paesi NATO, anche mentre prosegue la guerra in Ucraina. Distingue questo scenario da una vera invasione, per la quale continua a non vedere indicazioni e che considera altamente improbabile. È un aggiornamento sostanziale rispetto al dibattito sulle minacce raccontato ieri.",
-      "why_it_matters": "La distinzione riguarda scala e obiettivi: colpire infrastrutture o mettere alla prova la risposta collettiva richiederebbe capacità diverse da una guerra regionale. Per la Danimarca contano sia la protezione interna sia la presenza alleata nel Baltico.",
-      "source": "FE · Danish Defence Intelligence Service",
-      "url": "https://www.fe-ddis.dk/da/nyheder/2026/vurdering-af-truslen-fra-rusland/",
-      "published": "2026-09-24",
-      "limitations": "È una valutazione d’intelligence, non la conferma di un attacco deciso o imminente. Le ipotesi dipendono anche da come Mosca interpreta la disponibilità della NATO a rispondere insieme.",
+      "title": "Ucraina: sbloccati 6,6 miliardi, ma non sono tutti nuovi aiuti",
+      "category": "Europa · Aggiornamento del venerdì",
+      "summary": "Il 25 settembre Kaja Kallas ha annunciato un accordo dei paesi UE per liberare 6,6 miliardi di euro dello European Peace Facility. Secondo Reuters, 900 milioni andranno alla missione europea di assistenza militare all’Ucraina e un miliardo ad acquisti congiunti di equipaggiamenti. I restanti 4,7 miliardi rimborseranno gli Stati membri per aiuti già forniti: alcuni hanno indicato che destineranno le somme nuovamente a Kyiv.",
+      "why_it_matters": "È il passaggio concreto che chiude una settimana dominata dalla sicurezza. Separare acquisti, addestramento e rimborsi evita di confondere un fondo sbloccato con una consegna immediata di armi dello stesso valore.",
+      "source": "Reuters · Inti Landauro e Lili Bayer, via MarketScreener",
+      "url": "https://www.marketscreener.com/news/eu-agrees-to-release-eur6-6-billion-linked-to-ukraine-military-aid-ce785adfdf8cf222",
+      "published": "2026-09-25",
+      "limitations": "Quanto dei rimborsi diventerà ulteriore sostegno dipenderà dalle decisioni nazionali. L’accordo finanziario non certifica tempi e quantità delle consegne.",
       "additional_sources": [
         {
-          "name": "Valutazione integrale in inglese · PDF",
-          "url": "https://www.fe-ddis.dk/globalassets/fe/dokumenter/2026/trusselsvurderinger/-assessment-of-the-threat-from-russia-.pdf"
-        },
-        {
-          "name": "Comando della difesa danese · risposta alla valutazione",
-          "url": "https://www.forsvaret.dk/da/nyheder/2026/kommentar-vedrorende-ny-trusselsvurdering-fra-fe/"
+          "name": "Consiglio UE · funzionamento dello European Peace Facility",
+          "url": "https://www.consilium.europa.eu/en/policies/european-peace-facility/"
         }
       ]
     },
     {
-      "title": "Il comandante NATO: contributo americano ancora essenziale, ma più limitato",
-      "category": "Europa · NATO",
-      "summary": "Il comandante supremo alleato in Europa, generale Alexus Grynkewich, ha detto a Reuters che gli Stati Uniti continueranno a fornire capacità critiche ma più limitate, mentre gli europei assumeranno un ruolo maggiore nella difesa del continente. L’intervista è avvenuta mentre si recava a Norfolk per il passaggio di un comando NATO da un viceammiraglio americano a un generale britannico.",
-      "why_it_matters": "Il problema europeo non è soltanto spendere di più: occorre capire quali capacità dovranno essere disponibili quando cambierà la distribuzione dei compiti. La dichiarazione rende esplicita la direzione della transizione.",
-      "source": "Reuters · Sabine Siebold, via MarketScreener",
-      "url": "https://www.marketscreener.com/news/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says-ce785aded189ff21",
+      "title": "La settimana della sicurezza: distinguere sabotaggi, attacchi limitati e invasione",
+      "category": "Danimarca · Riepilogo della settimana",
+      "summary": "La valutazione pubblicata il 24 settembre dall’intelligence militare danese FE distingue tre livelli. Prevede un’ulteriore escalation della guerra ibrida russa nei prossimi mesi; considera basso, ma in crescita, il rischio di attacchi militari limitati contro un paese NATO anche mentre continua la guerra in Ucraina; giudica improbabile una vera invasione, pur affermando di non poterla più escludere. Il giorno stesso, il comandante alleato Alexus Grynkewich ha indicato a Reuters un futuro contributo americano ancora critico, ma più limitato.",
+      "why_it_matters": "Il filo comune è la capacità europea di rispondere: proteggere infrastrutture, scoraggiare operazioni limitate e preparare la difesa collettiva sono compiti diversi. Per chi vive in Danimarca la distinzione aiuta a leggere gli allarmi senza appiattirli in un unico scenario.",
+      "source": "FE · intelligence militare danese",
+      "url": "https://www.fe-ddis.dk/da/nyheder/2026/vurdering-af-truslen-fra-rusland/",
       "published": "2026-09-24",
-      "limitations": "Il breve resoconto non quantifica riduzioni di truppe o mezzi e non fornisce un calendario. Non va letto come annuncio del ritiro americano dalla NATO."
+      "limitations": "Si tratta di valutazioni e scenari, non della prova di un attacco imminente. L’intervista NATO non fornisce numeri o un calendario di riduzione delle forze americane.",
+      "additional_sources": [
+        {
+          "name": "Reuters · intervista al comandante NATO",
+          "url": "https://www.marketscreener.com/news/us-to-provide-critical-but-more-limited-capabilities-to-nato-top-commander-says-ce785aded189ff21"
+        }
+      ]
     },
     {
-      "title": "Italia e Croazia: proteggere fertilizzanti e cibo lungo le rotte sotto pressione",
-      "category": "Italia · Sicurezza alimentare",
-      "summary": "A New York Italia e Croazia hanno riunito la Coalizione di Roma sull’accesso ai fertilizzanti e la sicurezza alimentare. La dichiarazione del 24 settembre collega le difficoltà degli approvvigionamenti alle tensioni presso Hormuz, Bab el-Mandeb e il Mar Rosso, oltre alle interruzioni nel Mar Nero durante la guerra russa contro l’Ucraina. Le priorità indicate sono commercio aperto, minori ostacoli logistici e diversificazione di rotte e fornitori.",
-      "why_it_matters": "Il legame con il Mediterraneo e l’Europa è concreto: difficoltà nei fertilizzanti possono trasferirsi alla produzione agricola e all’accessibilità del cibo. I partecipanti sottolineano l’esposizione particolarmente forte dei paesi africani già in difficoltà.",
-      "source": "Farnesina · dichiarazione congiunta Italia-Croazia",
-      "url": "https://www.esteri.it/it/sala_stampa/archivionotizie/comunicati/2026/09/seconda-riunione-della-coalizione-di-roma-per-laccesso-ai-fertilizzanti-e-la-sicurezza-alimentare-dichiarazione-dei-co-presidenti-italia-e-croazia/",
-      "published": "2026-09-24",
-      "limitations": "Il documento espone priorità e impegni diplomatici: non dimostra che le rotte siano state messe in sicurezza o che i prezzi siano già diminuiti."
+      "title": "Diplomazia sull’Ucraina: proposta una riunione a tre negli Emirati",
+      "category": "Geopolitica · Aggiornamento del venerdì",
+      "summary": "Dopo i contatti all’Assemblea generale ONU, Zelensky ha dichiarato il 25 settembre che Washington propone un incontro tecnico con Ucraina e Russia negli Emirati Arabi Uniti. Secondo il resoconto Reuters, Kyiv attende ancora una proposta americana sulla data. Nello stesso giorno Putin ha detto che le proposte di pace restano sul tavolo, accompagnando però l’affermazione con minacce di ulteriori attacchi e accuse all’Ucraina.",
+      "why_it_matters": "La settimana lascia un possibile formato negoziale, non un’intesa. L’elemento da seguire è se le dichiarazioni si tradurranno in partecipanti, data e oggetto dei colloqui condivisi.",
+      "source": "Reuters · proposta riferita da Zelensky, via Yahoo",
+      "url": "https://currently.att.yahoo.com/att/us-proposes-trilateral-meeting-ukraine-111131881.html",
+      "published": "2026-09-25",
+      "limitations": "La sede è proposta e la data non è confermata. Le accuse di Putin sono dichiarazioni della parte russa, non una verifica indipendente delle responsabilità per singoli attacchi.",
+      "additional_sources": [
+        {
+          "name": "Reuters · dichiarazioni di Putin del 25 settembre",
+          "url": "https://www.marketscreener.com/news/putin-says-all-ukraine-peace-proposals-on-table-but-russia-must-weigh-its-interests-ce785adfd18cff27"
+        }
+      ]
     },
     {
-      "title": "Comfort Ero: il declino dell’ONU dipende anche da chi dice di volerla salvare",
-      "category": "Editoriale · Opinione · Geopolitica",
-      "summary": "Su El País del 24 settembre, Comfort Ero, presidente dell’International Crisis Group, sostiene che la crisi dell’ONU sia anche un problema di azione collettiva. Alla responsabilità delle grandi potenze affianca quella dei governi che celebrano il multilateralismo, ma riducono gli aiuti o preferiscono altri tavoli. La scelta del successore di António Guterres, nella sua lettura, può rilanciare l’organizzazione soltanto se accompagnata da sostegno politico e risorse per la diplomazia e le iniziative di pace.",
-      "why_it_matters": "L’editoriale offre un criterio per leggere i discorsi dell’Assemblea generale: confrontare le dichiarazioni con denaro, impegni e disponibilità ad appoggiare la mediazione.",
-      "source": "El País · Comfort Ero",
-      "url": "https://english.elpais.com/opinion/2026-09-24/the-uns-decline-is-a-choice.html",
-      "published": "2026-09-24",
-      "limitations": "Editoriale · Opinione. La tesi e i giudizi sono dell’autrice. Maggiore sostegno può rafforzare l’ONU, ma non elimina automaticamente i veti e i conflitti d’interesse tra gli Stati."
+      "title": "Nucleare italiano: dal voto politico alla prova dell’attuazione",
+      "category": "Italia · Riepilogo della settimana",
+      "summary": "Il 23 settembre il Senato ha approvato definitivamente il disegno di legge delega sul nucleare, dopo il passaggio alla Camera. Repubblica riporta 81 voti favorevoli e 51 contrari. La svolta della settimana è quindi parlamentare: il Governo riceve il compito di definire il quadro normativo per il nucleare sostenibile, non un insieme di centrali già autorizzate.",
+      "why_it_matters": "Ora il confronto si sposta su regole, costi, sicurezza, rifiuti e tempi. Sono questi i passaggi che permetteranno di valutare la distanza fra l’obiettivo politico e una capacità effettiva di produzione.",
+      "source": "Senato della Repubblica · resoconto del 23 settembre",
+      "url": "https://www.parlamento.it/show-doc?id=0&idoggetto=0&leg=0&part=doc_dc-ressten_rs-ddltit_sddeadddl1924dagimdens&parthttp=doc_dc-ressten_rs&tipodoc=hotresaula",
+      "published": "2026-09-23",
+      "limitations": "Il voto non costituisce una previsione verificata sulla data di entrata in servizio di nuovi impianti.",
+      "additional_sources": [
+        {
+          "name": "Repubblica · approvazione definitiva e voti",
+          "url": "https://www.repubblica.it/economia/2026/09/23/news/nucleare_legge_pichetto_fratin_senato_delega_governo_centrali-425602870/amp/"
+        }
+      ]
     }
   ],
   "sections": {
     "ai": [
       {
-        "title": "AI e pensiero critico: fare bene un compito non significa averlo imparato",
-        "category": "AI · Apprendimento",
-        "summary": "Un approfondimento di Helen Pearson su Nature del 23 settembre distingue la prestazione assistita dall’apprendimento che rimane quando l’AI viene tolta. Gli studiosi intervistati spiegano che ragionare criticamente richiede conoscenze del campo e pratica: non è una capacità generica trasferibile senza sforzo. Gli strumenti possono aiutare se propongono feedback e problemi, oppure sottrarre l’esercizio necessario quando consegnano direttamente le risposte.",
-        "why_it_matters": "La domanda utile per scuola e uso personale è quali passaggi mentali restano a chi impara: formulare ipotesi, confrontare alternative, motivare una conclusione. Il risultato prodotto dal chatbot non misura queste capacità.",
+        "title": "AI in laboratorio: il valore di una buona domanda biologica",
+        "category": "AI · Riepilogo della settimana",
+        "summary": "Anthropic ha presentato il 23 settembre ART, un sistema individuato da Claude analizzando sequenze genetiche di batteriofagi. La combinazione comprende una trascrittasi inversa, un gene vicino e ripetizioni di DNA ordinate. Gli esperimenti umani mostrano che queste ripetizioni vengono espresse in piccoli RNA distinti; la funzione del sistema resta da chiarire. La scoperta proposta riguarda l’organizzazione del sistema, non la creazione artificiale di un enzima.",
+        "why_it_matters": "Il caso rende concreto un uso scientifico dell’AI: trovare anomalie, confrontarle con la letteratura e selezionare ipotesi da portare al banco di laboratorio. La verifica sperimentale resta il passaggio decisivo.",
+        "source": "Anthropic · comunicazione di ricerca e rapporto tecnico",
+        "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+        "published": "2026-09-23",
+        "limitations": "Risultati iniziali comunicati dall’azienda sviluppatrice. La somiglianza con CRISPR non dimostra che ART sia già uno strumento biotecnologico utilizzabile."
+      },
+      {
+        "title": "Pensiero critico: che cosa resta quando spegniamo il chatbot?",
+        "category": "AI · Approfondimento della settimana",
+        "summary": "L’approfondimento di Helen Pearson su Nature del 23 settembre separa due risultati spesso confusi: produrre una risposta migliore grazie all’AI e imparare a ragionare meglio. Il pensiero critico richiede conoscenza del dominio e pratica, non soltanto una tecnica generale per formulare domande. Un assistente può offrire feedback e problemi; può anche togliere all’allievo proprio l’esercizio che dovrebbe svolgere.",
+        "why_it_matters": "Il criterio utile è osservare che cosa una persona sa spiegare e trasferire a un problema nuovo senza assistenza. Per studio e formazione, la qualità del prodotto finale non basta a misurare l’apprendimento.",
         "source": "Nature · Helen Pearson, News Feature",
         "url": "https://www.nature.com/articles/d41586-026-02930-6",
         "published": "2026-09-23",
-        "limitations": "È un approfondimento giornalistico sulla ricerca, non un nuovo esperimento. La stessa rassegna sottolinea risultati contrastanti e scarsità di studi rigorosi di lungo periodo: non dimostra un declino cognitivo inevitabile per ogni utilizzatore."
+        "limitations": "Rassegna giornalistica, non un singolo esperimento. Le evidenze sugli effetti nel lungo periodo restano limitate e non giustificano un verdetto uniforme su ogni utilizzo."
+      },
+      {
+        "title": "L’ascolto del weekend: quanto potere ha l’Europa sull’AI?",
+        "category": "AI · Podcast e dibattito europeo",
+        "summary": "La puntata del 25 settembre di EU Confidential, condotta da Anne McElvoy, mette al centro la risposta europea ai modelli più avanzati. Le note ufficiali presentano un confronto con il cardinale Michael Czerny, l’eurodeputato Axel Voss e il giornalista tecnologico di Politico Pieter Haeck: responsabilità delle aziende, allarmi sui rischi e capacità dell’UE di incidere in una competizione dominata da Stati Uniti e Cina.",
+        "why_it_matters": "È un complemento al racconto delle capacità tecniche: sposta la domanda su chi definisce le responsabilità e su quali strumenti abbia l’Europa per farle valere.",
+        "source": "Politico Europe · EU Confidential, Anne McElvoy",
+        "url": "https://podfollow.com/politicoeuconfidential/episode/f788367fcab50a96d4596daacc768d26e22c8230/view",
+        "published": "2026-09-25",
+        "limitations": "Segnalazione basata sulle note della puntata, non su una trascrizione integrale. Interviste e posizioni politiche non equivalgono a nuove norme già approvate."
       }
     ],
     "psicologia": [
       {
-        "title": "Gesti umani e robotici: il cervello risponde per gradi",
-        "category": "Psicologia · Percezione dei gesti",
-        "summary": "Uno studio PNAS, pubblicato online il 21 settembre e presentato da Brown questa settimana, ha registrato singoli neuroni in due persone con tetraplegia dotate di interfacce cerebrali. Osservando prese compiute da mani realistiche, mani robotiche e forme più astratte, l’attività motoria cresceva con la somiglianza umana. Quando i partecipanti provavano essi stessi a compiere il gesto, quella differenza diventava molto meno marcata.",
-        "why_it_matters": "Il risultato suggerisce una risposta distribuita e graduata, più complessa dell’idea popolare di cellule che semplicemente rispecchiano un’azione. Può aiutare a progettare il feedback visivo delle protesi controllate dal cervello.",
+        "title": "ADHD e genetica: varianti rare, senza un destino scritto nel DNA",
+        "category": "Psicologia · ADHD · Lettura d’archivio",
+        "summary": "Un lavoro di Ditte Demontis, Jinjie Duan e colleghi analizza varianti codificanti rare in 8.895 persone con ADHD e 53.780 controlli. Identifica associazioni con MAP1A, ANO8 e ANK2, geni collegati a funzioni neuronali. Nella coorte principale le varianti rare più dannose considerate erano presenti in circa una persona su cinque con ADHD: non spiegano dunque la maggior parte dei casi. Il paper è apparso online il 12 novembre 2025 e nel volume Nature del 2026.",
+        "why_it_matters": "Questa lettura aiuta a distinguere predisposizione biologica e previsione individuale, anche per chi riceve una diagnosi da adulto. L’ADHD non si riduce a un unico gene né alla sola forza di volontà.",
+        "source": "Nature · Ditte Demontis, Jinjie Duan e colleghi",
+        "url": "https://www.nature.com/articles/s41586-025-09702-8",
+        "published": "2025-11-12",
+        "limitations": "Approfondimento d’archivio, non novità della settimana. Associazioni di gruppo: non sono un test diagnostico individuale e non stabiliscono quale trattamento serva a una persona."
+      },
+      {
+        "title": "Guardare una mano muoversi: che cosa misura davvero il cervello",
+        "category": "Psicologia · Riepilogo della settimana",
+        "summary": "Il lavoro PNAS del 21 settembre su due partecipanti con tetraplegia registra risposte neuronali mentre osservano azioni compiute da effettori con diversa somiglianza umana. Nella corteccia motoria l’attività legata all’osservazione cresce con quella somiglianza; la differenza si attenua quando i partecipanti tentano essi stessi il movimento. L’esperimento riguarda come il cervello rappresenta azioni osservate e tentate.",
+        "why_it_matters": "La lezione più utile è anche un limite: una misura del sistema motorio non autorizza a dedurre empatia, sincerità o intenzioni nascoste da un gesto. Per le interfacce cerebrali può invece orientare il tipo di feedback visivo.",
         "source": "PNAS · Jacob Gusman e colleghi",
         "url": "https://www.pnas.org/doi/10.1073/pnas.2537457123",
         "published": "2026-09-21",
-        "limitations": "Due partecipanti sono un campione molto piccolo e clinicamente specifico. Il lavoro non misura empatia, intenzioni nascoste o capacità di leggere il linguaggio del corpo; servono repliche.",
-        "additional_sources": [
-          {
-            "name": "Brown University · spiegazione dello studio",
-            "url": "https://www.brown.edu/news/2026-09-23/braingate-mirror-neurons"
-          }
-        ]
-      },
-      {
-        "title": "ADHD adulto e gioco d’azzardo: i sintomi, da soli, non raccontano tutta la storia",
-        "category": "Psicologia · ADHD adulto",
-        "summary": "Uno studio trasversale su 83 adulti con diagnosi clinica di ADHD, prima dell’avvio del metilfenidato, ha confrontato sintomi, alfabetizzazione finanziaria e rischio legato al gioco d’azzardo. Nel campione la gravità dei sintomi non risultava direttamente associata al rischio. Una maggiore conoscenza finanziaria era associata a un rischio minore in una delle analisi, ma il risultato non rimaneva statisticamente significativo nella verifica bootstrap.",
-        "why_it_matters": "È un esempio di quanto sia facile trasformare un’associazione fragile in una promessa pratica. La diagnosi non basta a descrivere le differenze individuali nelle decisioni economiche.",
-        "source": "Scientific Reports · Çağrı Hamurcu, Mehmet Öztürk e Hayriye Dilek Hamurcu",
-        "url": "https://www.nature.com/articles/s41598-026-72538-3",
-        "published": "2026-09-23",
-        "limitations": "Campione limitato, fotografia di un solo momento e risultati non robusti a tutte le analisi. Non prova che un corso finanziario riduca il gioco problematico, né valuta l’effetto dei farmaci. La versione accettata è pubblicata anticipatamente e può ricevere modifiche editoriali."
+        "limitations": "Campione di due persone, molto specifico. Non è una validazione delle letture popolari del linguaggio del corpo e richiede repliche."
       }
     ],
     "antropologia": [
       {
-        "title": "Prima dell’agricoltura: i denti conservano tracce dell’uso del betel",
-        "category": "Antropologia · Approfondimento",
-        "summary": "Un lavoro di Science Advances del 9 settembre esamina i resti di due cacciatori-raccoglitori di Sulawesi, in Indonesia. Gli autori collegano particolari lesioni dentarie all’abitudine di tenere in bocca noci di betel intere; le analisi biomolecolari sono compatibili con questa interpretazione. L’individuo più antico è datato in un intervallo fra 25.000 e 16.000 anni fa. Esperimenti mostrano inoltre che la permanenza della noce in bocca può rilasciare arecolina anche senza le preparazioni impiegate nella masticazione moderna.",
-        "why_it_matters": "La ricerca estende molto indietro nel tempo una possibile pratica legata a una pianta psicoattiva, interrogando il rapporto tra conoscenza delle piante, abitudini e cultura prima dell’agricoltura.",
-        "source": "Science Advances · Adam Brumm e colleghi",
-        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13557070/",
-        "published": "2026-09-09",
-        "limitations": "Lettura di approfondimento. Due individui non permettono di stabilire quanto fosse diffusa la pratica né le sue motivazioni. L’intervallo di datazione non equivale a una data esatta di 25.000 anni fa."
+        "title": "Le strade romane raccontano un impero con molti centri",
+        "category": "Antropologia · Lettura di approfondimento",
+        "summary": "Il lavoro di Adam Pažout e colleghi, pubblicato il 15 settembre, studia la rete romana con una base digitale di quasi 300.000 chilometri di strade. Le capitali provinciali emergevano come nodi importanti e diverse città erano meglio collocate di Roma per gli spostamenti terrestri. Le vie risultano rettilinee soprattutto dove il terreno lo consente, ma meno di quelle moderne; la densità antica è correlata con quella delle grandi strade attuali.",
+        "why_it_matters": "Il cambio di prospettiva è dal monumento alla connessione: persone, merci e idee circolavano attraverso una rete regionale complessa. L’influenza del passato è leggibile nel paesaggio, senza immaginare una continuità perfetta.",
+        "source": "Nature Communications · Adam Pažout e colleghi",
+        "url": "https://www.nature.com/articles/s41467-026-75453-3",
+        "published": "2026-09-15",
+        "limitations": "Lettura precedente alla settimana. Dati incompleti e analisi esplorativa; mancano ancora le connessioni fluviali e marittime, decisive per interpretare il ruolo di Roma.",
+        "additional_sources": [
+          {
+            "name": "Abstract degli autori · Universitat Autònoma de Barcelona",
+            "url": "https://portalrecerca.uab.cat/en/publications/network-science-reveals-the-structure-and-lasting-impact-of-the-r/"
+          }
+        ]
       }
     ],
     "clima_spazio": [
       {
-        "title": "Diciassette immagini radar raccontano un vulcano che cambia forma",
-        "category": "Spazio · Osservazione della Terra",
-        "summary": "La missione NASA-ISRO NISAR ha ricostruito l’espansione delle colate del Krasheninnikov, in Kamchatka, con 17 immagini tra dicembre 2025 e agosto 2026. Il filmato, presentato il 24 settembre, mostra la lava riempire una caldera interna, superarla e allargarsi. Il satellite torna a osservare la zona due volte ogni dodici giorni, da direzioni diverse; nei fotogrammi ogni pixel rappresenta circa dieci metri per dieci.",
-        "why_it_matters": "La regolarità delle misure permette di seguire luoghi remoti poco coperti dagli strumenti a terra. Per i rischi naturali conta vedere l’evoluzione, non soltanto ottenere una bella immagine isolata.",
-        "source": "NASA / Jet Propulsion Laboratory · missione NISAR",
-        "url": "https://www.nasa.gov/missions/nisar/us-india-satellite-captures-time-lapse-video-of-volcanic-eruption/",
-        "published": "2026-09-24",
-        "limitations": "È una sequenza di misure radar elaborata in animazione, non un filmato ottico continuo. Mostra cambiamenti già avvenuti e non costituisce, da sola, una previsione della prossima eruzione."
+        "title": "Artico: la notizia è la sequenza, non soltanto il record mancato",
+        "category": "Clima · Bilancio della settimana",
+        "summary": "Il rapporto NASA del 23 settembre colloca il minimo 2026 del ghiaccio marino artico a circa 4,6 milioni di chilometri quadrati, raggiunti il 12 settembre. È il decimo valore più basso a pari merito con 2008, 2010 e 2025 nella serie satellitare. Il dato da trattenere nel riepilogo è che i venti minimi più bassi appartengono tutti al periodo 2007–2026.",
+        "why_it_matters": "La variabilità di una singola estate può spostare la classifica senza rovesciare il quadro di lungo periodo. Dire che quest’anno non c’è un nuovo primato non significa dire che il ghiaccio sia tornato alle condizioni precedenti.",
+        "source": "NASA · James Riordon",
+        "url": "https://science.nasa.gov/science-research/earth-science/climate-science/sea-ice/arctic-sea-ice-2026-min/",
+        "published": "2026-09-23",
+        "limitations": "Si misura l’estensione del ghiaccio marino, non il volume né la massa della calotta groenlandese. Il rapporto è di questa settimana; il minimo è del 12 settembre."
+      },
+      {
+        "title": "Hubble e Athena: aspettare due volte la stessa esplosione",
+        "category": "Spazio · Approfondimento della settimana",
+        "summary": "La campagna annunciata da NASA il 23 settembre cerca una nuova immagine della supernova Athena, osservata da Webb nel 2025. L’ammasso MACS J0417 agisce da lente gravitazionale: la luce segue percorsi diversi e arriva in tempi differenti. La ricomparsa prevista cade in una finestra che arriva ai primi di marzo 2027; Hubble la cerca dopo aver raggiunto le 200.000 orbite il 19 settembre.",
+        "why_it_matters": "Non è una stella che esplode di nuovo: è lo stesso evento ricevuto attraverso un altro percorso. Misurare il ritardo aiuta a ricostruire la massa della lente e può contribuire alle misure dell’espansione cosmica.",
+        "source": "NASA · missione Hubble",
+        "url": "https://science.nasa.gov/missions/hubble/nasas-hubble-seeks-lensed-supernova-marks-200000-orbits/",
+        "published": "2026-09-23",
+        "limitations": "Una previsione osservativa, non una nuova apparizione già confermata. La finestra dipende dal modello della lente."
+      },
+      {
+        "title": "Nature: gli aiuti climatici devono arrivare quando servono",
+        "category": "Editoriale · Opinione · Clima",
+        "summary": "Nell’editoriale del 22 settembre, la redazione di Nature sostiene che il fondo ONU per perdite e danni tradisca la propria funzione se impiega mesi per decidere su aiuti d’emergenza. Il caso del Nepal serve a distinguere la risposta immediata a un disastro dai grandi progetti pluriennali di adattamento. La rivista chiede procedure più rapide e una riunione intermedia urgente, senza attendere il normale calendario del consiglio.",
+        "why_it_matters": "Merita attenzione perché porta il dibattito dai fondi promessi al tempo necessario per utilizzarli: una questione concreta anche per i paesi europei donatori.",
+        "source": "Nature · editoriale della redazione",
+        "url": "https://www.nature.com/articles/d41586-026-03000-7",
+        "published": "2026-09-22",
+        "limitations": "Editoriale · Opinione. Sono proposte della redazione, non decisioni già adottate. Rapidità, verifica delle richieste e risorse limitate restano esigenze da conciliare."
       }
     ],
     "motogp": [
       {
-        "title": "Mugello confermato fino al 2031, Portimão fino al 2029",
-        "category": "MotoGP · Calendario",
-        "summary": "MotoGP ha annunciato un accordo di cinque anni che mantiene il Gran Premio d’Italia al Mugello fino al termine della stagione 2031. Un secondo accordo conferma l’Algarve International Circuit in Portogallo per altre tre stagioni, fino al 2029. Sono conferme ufficiali sulle sedi, distinte dalle indiscrezioni di mercato e dalle modifiche regolamentari raccontate ieri.",
-        "why_it_matters": "Per chi segue Ducati, Aprilia e il campionato dai circuiti europei, i rinnovi danno continuità a due appuntamenti riconoscibili. Il Mugello resta il riferimento del Gran Premio d’Italia anche nel prossimo ciclo tecnico.",
-        "source": "MotoGP · comunicati ufficiali",
+        "title": "Austria: la prima domenica di Acosta cambia il racconto del campionato",
+        "category": "MotoGP · Riepilogo della settimana",
+        "summary": "Il 20 settembre Pedro Acosta ha ottenuto al Red Bull Ring la prima vittoria domenicale in MotoGP con KTM, davanti alle Aprilia di Jorge Martín e Marco Bezzecchi. Martín è uscito dal weekend con dodici punti di vantaggio su Marc Márquez e quarantadue su Bezzecchi. La vittoria arriva dopo l’errore di Acosta nella Sprint e apre il tratto asiatico del calendario con un vincitore in più.",
+        "why_it_matters": "Il bilancio mette insieme il successo di KTM e la continuità di Aprilia: vincere il Gran Premio e guadagnare nel mondiale non sono sempre la stessa storia. Per Ducati, Motegi sarà il prossimo confronto in condizioni diverse.",
+        "source": "MotoGP · resoconto ufficiale del GP d’Austria",
+        "url": "https://www.motogp.com/en/news/2026/09/20/bouncing-back-flawless-acosta-fends-off-aprilia-charge-to-claim-dream-maiden-win/1090419",
+        "published": "2026-09-20",
+        "limitations": "Classifica riferita alla conclusione del weekend austriaco. Non è una previsione sull’esito del mondiale."
+      },
+      {
+        "title": "Mugello e Portimão: due punti fermi oltre il cambio tecnico",
+        "category": "MotoGP · Riepilogo della settimana",
+        "summary": "Gli accordi annunciati questa settimana mantengono il Gran Premio d’Italia al Mugello fino al 2031 e la tappa portoghese all’Algarve International Circuit fino al 2029. Il rinnovo italiano copre cinque anni, quello portoghese tre ulteriori stagioni. Sono conferme sulle sedi che attraverseranno il nuovo ciclo tecnico del campionato.",
+        "why_it_matters": "Per chi segue le gare europee, i contratti danno continuità a due appuntamenti importanti. La permanenza di una pista e il calendario esatto di ogni stagione restano però informazioni diverse.",
+        "source": "MotoGP · accordo per il Portogallo",
         "url": "https://www.motogp.com/en/news/2026/09/24/motogp-to-race-in-portugal-until-2029/1092228",
         "published": "2026-09-24",
+        "limitations": "I rinnovi non fissano tutte le date future. La pagina del Mugello mostra 23 settembre, pur avendo un URL del 24.",
         "additional_sources": [
           {
-            "name": "MotoGP · rinnovo del Mugello",
+            "name": "MotoGP · accordo per il Mugello",
             "url": "https://www.motogp.com/en/news/2026/09/24/mugello-to-remain-home-of-motogps-italian-grand-prix-as-new-five-year-deal-is-confirmed/1092272"
           }
-        ],
-        "limitations": "Gli accordi fissano la permanenza delle sedi, non tutte le date dei futuri Gran Premi. Il testo sul Mugello riporta 23 settembre, pur trovandosi in un URL del 24."
+        ]
       }
     ],
     "fotografia_cultura": [
       {
-        "title": "Duecento ore per mostrare i resti di cinque stelle esplose",
-        "category": "Fotografia · Astrofotografia",
-        "summary": "L’immagine scelta da APOD il 24 settembre, di Stephane Vetter e Yann Sainty, riunisce circa 200 ore di osservazioni dall’osservatorio di Oukaïmeden, in Marocco. Copre un’area dell’Auriga equivalente a circa mille Lune piene e rivela cinque resti di supernova. La versione annotata aiuta a separare i filamenti: il rosso rappresenta l’idrogeno e il blu l’ossigeno.",
-        "why_it_matters": "È una lettura visiva sul tempo necessario a far emergere strutture debolissime. La fotografia mette nello stesso campo eventi indipendenti, avvenuti a distanze ed epoche diverse: la vicinanza nell’immagine non implica vicinanza fisica.",
-        "source": "NASA APOD · Stephane Vetter e Yann Sainty; testo di Cecilia Chirenti",
-        "url": "https://science.nasa.gov/image-article/apod-2026-september-24-the-ghosts-of-five-supernovas/",
-        "published": "2026-09-24",
-        "limitations": "La data riguarda la selezione APOD, non un’unica esposizione. L’immagine è protetta da copyright: viene segnalata attraverso il link originale, senza riproduzione."
+        "title": "René Burri: trenta fotografie per attraversare due decenni",
+        "category": "Fotografia · Mostra della settimana",
+        "summary": "Magnum Gallery presenta a Parigi Traversées, una retrospettiva di René Burri composta da trenta stampe e costruita su due decenni del suo archivio. La galleria ha annunciato l’inaugurazione per il 24 settembre, con un incontro fra Clotilde Burri e Richard Kalvar. Il tema degli attraversamenti riguarda i luoghi ma anche il passare del tempo: una selezione concentrata per tornare a osservare il lavoro di un grande fotografo.",
+        "why_it_matters": "È un invito a leggere una sequenza, oltre alla singola immagine famosa. La pagina della mostra offre un punto di partenza visivo anche a chi non si trova a Parigi.",
+        "source": "Magnum Gallery · René Burri, Traversées",
+        "url": "https://store.magnumphotos.com/pages/ren-burri-traversees",
+        "published": "2026-09-26",
+        "limitations": "Pagina senza data editoriale: il 26 settembre indica la consultazione. L’annuncio dell’apertura è del 24; non è una recensione di una visita. Fotografie consultabili alla fonte, non riprodotte.",
+        "additional_sources": [
+          {
+            "name": "Magnum Gallery · annuncio dell’inaugurazione",
+            "url": "https://store.magnumphotos.com/pages/gallery"
+          }
+        ]
       }
     ]
   },
-  "watchlist": []
+  "watchlist": [
+    {
+      "title": "28 settembre · Difesa UE, poi energia e agricoltura",
+      "summary": "Il Consiglio Difesa discuterà sostegno militare all’Ucraina e minacce ibride. Il 28–29 settembre sono previsti anche il Consiglio Agricoltura e Pesca e l’incontro informale dei ministri dell’energia: appuntamenti confermati, esiti ancora da definire.",
+      "source": "Consiglio UE · agenda pubblicata il 25 settembre",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/25/forward-look-2026/",
+      "published": "2026-09-25"
+    },
+    {
+      "title": "1–2 ottobre · Interni e Giustizia europei",
+      "summary": "Il calendario UE prevede il Consiglio Interni il 1° ottobre e Giustizia il 2. Fra i temi annunciati: attuazione del patto su migrazione e asilo, Schengen, protezione di giornalisti e società civile e contrasto all’impunità per i crimini in Ucraina.",
+      "source": "Consiglio UE · calendario delle riunioni, consultato il 26 settembre",
+      "url": "https://www.consilium.europa.eu/en/meetings/calendar/?filters=-2",
+      "published": "2026-09-26"
+    },
+    {
+      "title": "2–4 ottobre · MotoGP in Giappone",
+      "summary": "Il calendario ufficiale colloca il Gran Premio del Giappone nel weekend 2–4 ottobre. La preparazione a Motegi sarà il prossimo capitolo dopo l’Austria; gli orari delle singole sessioni vanno controllati nel programma dell’evento.",
+      "source": "MotoGP · calendario ufficiale, consultato il 26 settembre",
+      "url": "https://www.motogp.com/en/calendar/?view=grid",
+      "published": "2026-09-26"
+    }
+  ]
 }
