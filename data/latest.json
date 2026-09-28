@@ -1,137 +1,149 @@
 {
   "status": "published",
-  "date": "2026-09-27",
-  "updated": "2026-09-27T03:09:00Z",
-  "title": "Daily David · Domenica 27 settembre 2026",
-  "summary": "Berlino e Mosca tornano a parlarsi all’ONU, senza annunciare un accordo. In Italia arrivano nuove previsioni di Moody’s; Londra e Kyiv aprono un altro capitolo dell’AI militare. Dieci letture per la domenica: dalla fiducia nella scienza al rapporto fra ADHD e sonno, dalle origini dello scheletro umano alla fotografia di Constantine Manos. Un editoriale di El País invita a riportare le decisioni sull’AI nella sfera pubblica. Le letture meno recenti sono indicate come approfondimenti.",
+  "date": "2026-09-28",
+  "updated": "2026-09-28T03:04:00Z",
+  "title": "Daily David · Lunedì 28 settembre 2026",
+  "summary": "La settimana comincia con nuovi attacchi alle comunicazioni ucraine e due cambiamenti che toccano i consumatori: la scadenza europea contro il greenwashing e il tetto ai carburanti annunciato da Eni. Dieci letture, fra cronaca e approfondimenti: il dibattito europeo sull’AI, percezione visiva e ADHD, antenati ancora senza nome, MotoGP 2027 e Raymond Depardon. L’editoriale di Nature si chiede come trasformare la ricerca sulle disuguaglianze in scelte pubbliche. Le letture d’archivio sono distinte dalle novità.",
   "top_stories": [
     {
-      "title": "Germania e Russia tornano al tavolo: al centro il Mar Nero",
-      "category": "Ucraina · Diplomazia",
-      "summary": "Johann Wadephul e Sergej Lavrov si sono incontrati il 26 settembre a margine dell’Assemblea generale ONU. Secondo Reuters è il primo colloquio fra i ministri degli Esteri dei due paesi da prima dell’invasione russa del 2022. Berlino ha chiesto un cessate il fuoco e un’intesa sulle esportazioni di cereali e sulle infrastrutture energetiche. Lavrov ha descritto l’incontro con freddezza, sostenendo di non aver ascoltato posizioni nuove.",
-      "why_it_matters": "Il contatto riapre un canale diretto, ma il risultato da misurare sarà un eventuale accordo concreto sulla navigazione e sulle esportazioni. Il confronto diplomatico non modifica, da solo, la situazione sul terreno.",
-      "source": "Reuters · Antoni Slodkowski e Tom Balmforth, via Internazionale",
-      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/26/at-un-russia-and-germany-s-top-diplomats-hold-first-talks-since-2022",
-      "published": "2026-09-26",
-      "limitations": "Le richieste tedesche sono riportate da fonti della delegazione e da un messaggio visto da Reuters. Non è stato annunciato un accordo; le dichiarazioni russe sui negoziati con altri paesi restano attribuite a Lavrov."
+      "title": "Ucraina: colpita Kyivstar, sotto pressione le comunicazioni",
+      "category": "Ucraina · Sicurezza",
+      "summary": "Kyivstar ha riferito che il 27 settembre è stata colpita la propria sede a Kyiv, senza vittime nell’edificio. Reuters colloca l’episodio nella serie di attacchi russi alle infrastrutture di comunicazione e ai centri dati. Il ministero della Difesa russo ha inoltre dichiarato di aver colpito un centro Vodafone Ukraine; l’operatore non aveva risposto alla richiesta di commento della Reuters.",
+      "why_it_matters": "Le reti di comunicazione sostengono servizi quotidiani, attività economiche e risposta alle emergenze. Il nuovo sviluppo riguarda una struttura di un grande operatore civile, ma dal resoconto non si può ricavare l’estensione di eventuali interruzioni per gli utenti.",
+      "source": "Reuters · via Internazionale",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/27/russia-hits-ukraine-s-largest-mobile-provider-strikes-data-centres",
+      "published": "2026-09-27",
+      "limitations": "La conferma aziendale riguarda Kyivstar. La notizia sul centro Vodafone resta una dichiarazione russa non confermata dall’operatore; non va presentata con lo stesso grado di certezza."
     },
     {
-      "title": "Italia: Moody’s alza la stima di crescita, rating invariato",
-      "category": "Italia · Economia",
-      "summary": "La revisione periodica di Moody’s si conclude senza una nuova azione sul rating: restano Baa2 e prospettive stabili. L’agenzia porta allo 0,8% la previsione di crescita per il 2026, richiamando la tenuta dell’economia allo shock energetico. Secondo la nota riportata da Italpress, il deficit è previsto al 3% del PIL quest’anno e al 2,9% nel 2027; il debito si stabilizzerebbe intorno al 138% prima di scendere gradualmente.",
-      "why_it_matters": "Il punto è la combinazione fra resilienza e margini di bilancio stretti. La base produttiva e l’appartenenza all’euro sostengono il giudizio, mentre l’elevato debito limita la capacità di assorbire nuovi shock.",
-      "source": "Italpress · nota Moody’s",
-      "url": "https://www.italpress.com/moodys-conferma-rating-a-baa2-italia-resiliente-a-shock-energia/",
-      "published": "2026-09-26",
-      "limitations": "Sono previsioni dell’agenzia, non dati consuntivi. La revisione non costituisce un miglioramento del rating né annuncia una decisione imminente."
+      "title": "Greenwashing: scatta la data europea per regole più severe",
+      "category": "Europa · Consumatori e clima",
+      "summary": "Il 27 settembre è la data prevista dalla direttiva UE 2024/825 per applicare le disposizioni nazionali che rafforzano la tutela dei consumatori. Fra le pratiche vietate rientrano indicazioni ambientali generiche senza prestazioni dimostrabili, marchi di sostenibilità privi di un sistema di certificazione o di un’autorità pubblica, e promesse climatiche sui prodotti fondate sulla sola compensazione delle emissioni. Sono affrontate anche le false affermazioni su durata e riparabilità.",
+      "why_it_matters": "Per un acquisto conta capire a quale caratteristica si riferisca una promessa: un imballaggio riciclato non rende automaticamente sostenibile l’intero prodotto. La novità è una scadenza applicativa di norme già approvate, non una nuova legge votata ieri.",
+      "source": "Consiglio UE · spiegazione delle pratiche sleali; consultazione 28 settembre",
+      "url": "https://www.consilium.europa.eu/en/policies/green-claims-empowering-consumers-for-more-sustainable-choices/",
+      "published": "2026-09-28",
+      "limitations": "La pagina del Consiglio non mostra una data editoriale: è indicata la consultazione. Applicazione e controlli passano dalle norme nazionali; la distinta proposta Green Claims non va confusa con questa direttiva già adottata.",
+      "additional_sources": [
+        {
+          "name": "EUR-Lex · direttiva 2024/825, articolo 4 e data di applicazione",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/825/oj"
+        }
+      ]
     },
     {
-      "title": "Londra e Kyiv: i dati di guerra entrano nella cooperazione sull’AI",
-      "category": "Sicurezza · Intelligenza artificiale",
-      "summary": "Il governo britannico ha annunciato il 25 settembre un accordo per consentire a imprese selezionate l’accesso a dati ucraini destinati allo sviluppo e alla valutazione di sistemi militari basati sull’AI. La partecipazione iniziale è prevista per un massimo di dodici aziende, da scegliere nelle settimane successive. Il ministero della Difesa presenta il programma come un beneficio reciproco e afferma di voler mantenere un adeguato coinvolgimento umano.",
-      "why_it_matters": "La cooperazione militare comprende ormai anche dati e capacità di sviluppo. La promessa di supervisione umana solleva una domanda concreta: quali controlli e responsabilità accompagneranno i sistemi quando usciranno dalla sperimentazione?",
-      "source": "Ministero della Difesa britannico · comunicato ufficiale",
-      "url": "https://www.gov.uk/government/news/british-companies-to-access-prized-ukraine-data-to-develop-ai-drone-swarms",
+      "title": "Carburanti: da oggi il tetto annunciato da Eni",
+      "category": "Italia · Energia",
+      "summary": "Eni ha annunciato dal 28 settembre un prezzo massimo per i carburanti commercializzati da Enilive: 2,19 euro al litro per il gasolio e 1,99 per la benzina. Il comunicato del 25 settembre prevede una durata iniziale di trenta giorni e collega l’iniziativa all’agevolazione sulle accise in vigore. Una prosecuzione fino a fine anno è possibile, ma dipende da mercato e approvvigionamenti.",
+      "why_it_matters": "È un’iniziativa di un operatore, con effetti potenziali sul costo del pieno, non un limite legale valido presso tutti i distributori. La durata e le condizioni contano quanto i prezzi annunciati.",
+      "source": "Eni · comunicato ufficiale",
+      "url": "https://www.eni.com/it-IT/media/comunicati-stampa/2026/09/cs-eni-aggiudica-dal-28-settembre-tetto-prezzi-gasolio-benzina.html",
       "published": "2026-09-25",
-      "limitations": "L’annuncio descrive un programma in avvio e gli obiettivi del governo; non dimostra efficacia operativa né rende pubblici tutti i meccanismi di controllo."
+      "limitations": "Si riportano i termini annunciati dall’azienda, senza una verifica sul campo dei singoli impianti. L’estensione oltre i primi trenta giorni non è garantita."
+    },
+    {
+      "title": "Nature: dare una voce pubblica alla ricerca sulle disuguaglianze",
+      "category": "Editoriale · Opinione",
+      "summary": "Nell’editoriale del 15 settembre la redazione di Nature sostiene la proposta di un International Panel on Inequality: un gruppo che valuti le evidenze e confronti politiche riuscite e fallite. Chiede sostegno finanziario dei governi, ma anche selezione trasparente degli esperti e apertura a prospettive differenti. Il testo sottolinea che ricchi e poveri sono spesso poco rappresentati nei sondaggi e che servono dati migliori, oltre a nuove sintesi.",
+      "why_it_matters": "La lettura merita attenzione perché collega la qualità della conoscenza alla sua credibilità pubblica: chi partecipa, quali dati mancano e come si arriva a conclusioni condivise.",
+      "source": "Nature · editoriale della redazione",
+      "url": "https://www.nature.com/articles/d41586-026-02885-8",
+      "published": "2026-09-15",
+      "limitations": "Approfondimento di opinione precedente a questa settimana. L’utilità del panel è la tesi della redazione, non un risultato già dimostrato; conoscere una politica efficace non garantisce che venga adottata."
     }
   ],
   "sections": {
     "ai": [
       {
-        "title": "AI: chi decide il nostro futuro?",
-        "category": "Editoriale · Opinione",
-        "summary": "La redazione di El País, nell’editoriale del 20 settembre «El apocalipsis no está escrito», chiede regole pubbliche e cooperazione internazionale sull’AI. Distingue rischi tecnici, interessi economici e competizione geopolitica; sostiene che l’Europa debba vigilare senza rinunciare all’innovazione.",
-        "why_it_matters": "Una lettura per discutere chi prende le decisioni collettive sulla tecnologia.",
-        "source": "El País · editoriale della redazione",
-        "url": "https://elpais.com/opinion/2026-09-20/el-apocalipsis-no-esta-escrito.html",
-        "published": "2026-09-20",
-        "limitations": "È una posizione editoriale: gli scenari catastrofici evocati nel testo non sono previsioni accertate."
-      }
-    ],
-    "psicologia": [
-      {
-        "title": "ADHD e sonno: il legame con la qualità della vita",
-        "category": "ADHD adulto · Approfondimento, luglio 2025",
-        "summary": "Uno studio di Siddhi Nair e colleghi, pubblicato su BMJ Mental Health il 14 luglio 2025, ha analizzato questionari di 1.364 partecipanti al Netherlands Sleep Registry, con età media di circa 52 anni. Tratti ADHD più marcati risultavano associati a maggiore insonnia, qualità del sonno peggiore e minore soddisfazione di vita. Nei modelli statistici l’insonnia spiegava parte dell’associazione con la qualità della vita, ma nessun fattore del sonno mediava significativamente il rapporto fra tratti ADHD e sintomi depressivi.",
-        "why_it_matters": "La lettura aiuta a considerare il sonno come una dimensione specifica dell’esperienza adulta, senza ricondurre automaticamente ogni difficoltà allo stesso meccanismo.",
-        "source": "BMJ Mental Health · Siddhi Nair e colleghi, abstract originale su PubMed",
-        "url": "https://pubmed.ncbi.nlm.nih.gov/40659535/",
-        "published": "2025-07-14",
-        "limitations": "Indagine trasversale e autovalutazioni, con il 75% di donne: osserva associazioni, non cause. Studia tratti ADHD, non soltanto diagnosi cliniche, e non dimostra che curare l’insonnia risolva ADHD o depressione."
-      },
-      {
-        "title": "Perché ci fidiamo degli scienziati: contano anche i valori condivisi",
-        "category": "Psicologia sociale · Lettura di approfondimento",
-        "summary": "Un rapporto del Policy Institute di King’s College London con Sense about Science analizza un’indagine YouGov su 4.262 adulti britannici. Il 63% dichiara elevata fiducia negli scienziati, ma il quadro cambia con valori, identità e orientamento politico. La percezione che gli scienziati siano vicini alle proprie preoccupazioni emerge come un elemento importante; anche conoscere personalmente uno scienziato è associato a maggiore fiducia.",
-        "why_it_matters": "Comunicare risultati corretti resta essenziale, ma il rapporto suggerisce di considerare anche la relazione con il pubblico: come vengono ascoltate le sue domande e quali interessi ritiene rappresentati.",
-        "source": "King’s College London · Policy Institute e Sense about Science; consultazione 27 settembre",
-        "url": "https://www.kcl.ac.uk/research/trust-in-scientists-the-role-of-values-and-moral-and-political-identities-in-the-uk",
+        "title": "AI europea: il dibattito si sposta anche sull’adozione",
+        "category": "AI · Politica europea",
+        "summary": "Secondo il resoconto di The Next Web del 27 settembre, che riprende Politico, l’inviato UE per l’AI industriale Jim Hagemann Snabe ha invitato i commissari a concentrarsi sull’uso della tecnologia per la produttività. Il giornale riferisce di un seminario riservato del 4 settembre, descritto da due funzionari a Politico. La questione è quanto valore possa creare l’Europa nell’applicazione dell’AI, anche quando i modelli più avanzati arrivano da Stati Uniti e Cina.",
+        "why_it_matters": "È una scelta di priorità: misurare servizi e attività che migliorano davvero, oltre alla posizione nella corsa ai modelli. Il resoconto descrive un orientamento discusso internamente, non nuovi obblighi per cittadini o imprese.",
+        "source": "The Next Web · resoconto del servizio di Zoya Sheftalovich per Politico Europe",
+        "url": "https://thenextweb.com/news/eu-ai-envoy-snabe-productivity-adoption",
         "published": "2026-09-27",
-        "limitations": "Approfondimento già discusso da Nature l’11 settembre, non una novità di oggi. La data indicata è quella della consultazione della pagina del rapporto, priva di data editoriale visibile. Le associazioni del sondaggio non provano causalità.",
+        "limitations": "La fonte disponibile è una ripresa giornalistica: non sono stati verificati verbali o materiali integrali del seminario. Non equivale a una decisione formale della Commissione.",
         "additional_sources": [
           {
-            "name": "Nature · notizia sul rapporto, 11 settembre 2026",
-            "url": "https://www.nature.com/articles/d41586-026-02883-w"
+            "name": "Politico Europe · servizio originale richiamato da The Next Web",
+            "url": "https://www.politico.eu/article/eu-artificial-intelligence-adviser-ai-economy-productivity-focus-jim-hagemann-snabe/"
           }
         ]
       }
     ],
+    "psicologia": [
+      {
+        "title": "ADHD adulto: quando la differenza comincia dalla percezione",
+        "category": "ADHD · Approfondimento, studio del 2026",
+        "summary": "Hani Ifrah-Tsruya, Maria Lev e Uri Polat hanno confrontato 21 adulti con ADHD e 24 controlli in prove visive. Il gruppo ADHD mostrava in media minore sensibilità al contrasto; in una condizione molto rapida, di 40 millisecondi, traeva meno beneficio dall’ingrandimento dello stimolo. In un secondo esperimento, però, non emergeva una differenza complessiva significativa nella capacità di distinguere segnali immersi nel rumore visivo.",
+        "why_it_matters": "Il risultato invita a non spiegare ogni difficoltà come semplice disattenzione: possono intervenire processi percettivi selettivi, dipendenti dal compito. È altrettanto importante il risultato negativo, che limita le generalizzazioni.",
+        "source": "Vision Research · Hani Ifrah-Tsruya, Maria Lev e Uri Polat; abstract su PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42349229/",
+        "published": "2026-06-25",
+        "limitations": "Studio piccolo, apparso online il 25 giugno e nel fascicolo di settembre. Non è un test diagnostico né dimostra una difficoltà visiva universale nelle persone con ADHD; un risultato non significativo non prova equivalenza."
+      }
+    ],
     "antropologia": [
       {
-        "title": "Lo scheletro umano è cambiato anche regolando i geni",
-        "category": "Evoluzione umana · Ricerca",
-        "summary": "Una ricerca di Yizhi Yan, Nadav Mishol e colleghi su Nature mappa i cambiamenti nella regolazione dei geni legati allo scheletro. Gli autori hanno studiato oltre 561 mila varianti e confrontato cellule sperimentali per distinguere i cambiamenti umani da quelli di altri grandi primati. Emerge una riorganizzazione della matrice che sostiene i tessuti, con minore produzione di glicosaminoglicani, componenti importanti della cartilagine.",
-        "why_it_matters": "L’evoluzione non cambia soltanto le proteine: può modificare quando e quanto vengono prodotti i componenti dei tessuti. Il lavoro collega questa prospettiva alla forma umana e propone una possibile spiegazione della nostra vulnerabilità articolare.",
-        "source": "Nature · Yizhi Yan, Nadav Mishol e colleghi",
-        "url": "https://www.nature.com/articles/s41586-026-11053-x",
-        "published": "2026-09-23",
-        "limitations": "Il collegamento con le malattie degenerative è un’interpretazione sostenuta da confronti biologici; non identifica una causa unica e non fornisce una nuova terapia."
+        "title": "Antenati senza un genoma di riferimento: che cosa cerca TRACE",
+        "category": "Antropologia · Approfondimento d’archivio",
+        "summary": "Un lavoro di Yulin Zhang e colleghi su Science presenta TRACE, un metodo per cercare contributi genetici di ominini arcaici senza partire dal loro DNA sequenziato. Analizzando circa mille genomi moderni, recupera segnali noti di Neanderthal e Denisoviani e individua tracce compatibili con incroci con popolazioni ancora non caratterizzate. Alcune compaiono anche in regioni prima considerate povere di ascendenza arcaica.",
+        "why_it_matters": "Il metodo amplia la ricerca oltre i pochi resti antichi da cui abbiamo ottenuto DNA. L’assenza di un fossile identificato non impedisce di formulare ipotesi sulla storia delle popolazioni, ma rende cruciale distinguere un segnale statistico dall’identità di un antenato.",
+        "source": "Science · Yulin Zhang e colleghi; abstract originale su PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42531349/",
+        "published": "2026-08-27",
+        "limitations": "Lettura precedente a questa settimana, data del fascicolo indicata da PubMed. Le popolazioni «fantasma» sono inferite dai modelli: non sono nuove specie nominate o riconosciute attraverso fossili."
       }
     ],
     "clima_spazio": [
       {
-        "title": "Il calcare nei campi e il conto della CO₂: un risultato dal Mississippi",
-        "category": "Clima · Ricerca",
-        "summary": "Aggiungere materiali calcarei ai terreni serve a correggerne l’acidità. Uno studio su Nature ricostruisce un secolo di pratiche agricole e chimica delle acque nel bacino del Mississippi: confrontando scenari con e senza questi apporti, gli autori stimano un beneficio netto nel bilancio della CO₂ sul lungo periodo. I dati del fiume e le simulazioni convergono sul segno del risultato, mentre la sua entità dipende dalle ricostruzioni e dai modelli.",
-        "why_it_matters": "Il lavoro mostra quanto sia importante scegliere bene il termine di confronto nei bilanci climatici. Un beneficio già prodotto dalle pratiche agricole ordinarie va considerato prima di attribuire crediti a interventi presentati come aggiuntivi.",
-        "source": "Nature · Tim Jesper Suhrhoff e colleghi",
-        "url": "https://www.nature.com/articles/s41586-026-11040-2",
-        "published": "2026-09-23",
-        "limitations": "L’effetto emerge su scale di decenni e riguarda questo bacino: non equivale a una compensazione immediata e universale. Alcuni autori dichiarano rapporti di consulenza con un’impresa del settore."
+        "title": "Dentro Centaurus A: una galassia da leggere stella per stella",
+        "category": "Spazio · Lettura e immagini d’archivio, luglio 2026",
+        "summary": "Le immagini Webb presentate dalla NASA il 6 luglio mostrano Centaurus A, a circa undici milioni di anni luce, attraverso la polvere che ne nasconde il centro nella luce visibile. La combinazione del vicino e medio infrarosso distingue stelle e strutture polverose; una forma a S resta fra gli elementi da spiegare. La pagina include un’esplorazione interattiva delle osservazioni.",
+        "why_it_matters": "La fotografia astronomica diventa uno strumento per ricostruire la storia della galassia: distribuzione delle stelle, gas e polvere aiutano a distinguere fasi di formazione e attività del buco nero centrale.",
+        "source": "NASA · Webb Mission Team",
+        "url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
+        "published": "2026-07-06",
+        "limitations": "Approfondimento d’archivio, non una scoperta annunciata oggi. Diverse interpretazioni delle strutture richiedono ancora studi; le immagini originali e i crediti sono consultabili alla fonte."
       }
     ],
     "motogp": [
       {
-        "title": "Verso Motegi: Chantra sostituirà Mir sulla Honda ufficiale",
-        "category": "MotoGP · Notizia del 23 settembre",
-        "summary": "Honda HRC ha confermato Somkiat Chantra al posto di Joan Mir per il Gran Premio del Giappone. Mir prosegue il recupero dopo i problemi medici emersi dopo Misano. Chantra, passato nel 2026 al programma Superbike HRC, ritroverà la MotoGP e una pista sulla quale vinse in Moto2 nel 2023; nel 2025 vi aveva chiuso quindicesimo nella classe regina.",
-        "why_it_matters": "È una variazione concreta nella griglia del prossimo appuntamento, diversa dai bilanci dell’ultima gara. Per Chantra significa tornare sulla RC213V in un contesto che conosce, senza che questo permetta già di prevederne la competitività.",
-        "source": "MotoGP · annuncio Honda HRC",
-        "url": "https://www.motogp.com/en/news/2026/09/23/chantra-set-for-motogp-return-in-motegi/1092166",
-        "published": "2026-09-23",
-        "limitations": "La comunicazione non indica una data certa di rientro per Mir; ulteriori aggiornamenti sono attesi dopo il GP d’Indonesia."
+        "title": "MotoGP 2027: ventidue gare, Buenos Aires e Adelaide",
+        "category": "MotoGP · Calendario annunciato il 25 settembre",
+        "summary": "Il calendario ufficiale 2027 prevede ventidue Gran Premi su cinque continenti. Le due nuove sedi sono Buenos Aires, quarto appuntamento, e Adelaide, penultima tappa. La sequenza europea comprende Mugello, Assen e Brno; Misano è indicata dal 10 al 12 settembre, mentre Portimão si sposta all’inizio di ottobre prima delle trasferte finali.",
+        "why_it_matters": "Dopo i rinnovi dei singoli circuiti, il calendario completo permette di leggere l’ordine delle trasferte e delle pause nel nuovo ciclo tecnico. Le due nuove sedi aggiungono variabili che squadre e piloti dovranno preparare.",
+        "source": "MotoGP · comunicazione ufficiale",
+        "url": "https://www.motogp.com/en/news/2020/06/15/calendario-da-motogp-de-2027-e-divulgado/1092589",
+        "published": "2026-09-25",
+        "limitations": "La pagina reca la data editoriale 25 settembre 2026 nonostante il percorso dell’URL anomalo. Il programma riguarda il 2027; non modifica gli appuntamenti restanti del 2026."
       }
     ],
     "fotografia_cultura": [
       {
-        "title": "Constantine Manos: dalla Grecia rurale al colore americano",
-        "category": "Fotografia · Mostra online e archivio",
-        "summary": "Magnum propone un percorso online dedicato a Constantine Manos, indicato dal 12 settembre al 1° dicembre 2026. Accosta A Greek Portfolio, nato dai suoi anni in Grecia e pubblicato per la prima volta nel 1972, ad American Color. Nel primo compaiono villaggi, scuole e gesti quotidiani degli anni Sessanta; nel secondo spiagge, feste e spazi pubblici statunitensi diventano occasioni per lavorare sull’incontro fra persone, luce e istante.",
-        "why_it_matters": "Una pausa visiva da esplorare con calma: osservare le relazioni fra soggetti e ambiente permette di leggere la composizione oltre il singolo protagonista. Il confronto fra due lavori lontani è il motivo della selezione di oggi.",
-        "source": "Magnum Photos · Constantine Manos, mostra online",
-        "url": "https://store.magnumphotos.com/pages/constantine-manos",
-        "published": "2026-09-12",
-        "limitations": "Sono opere d’archivio, non fotografie di cronaca recente. Le immagini si consultano sul sito originale e non vengono riprodotte qui."
+        "title": "Raymond Depardon: il mondo e la vita quotidiana nello stesso sguardo",
+        "category": "Fotografia · Mostra in corso",
+        "summary": "All’antica abbazia di Aniane, in Francia, «Le bonheur est dans l’image» attraversa il lavoro di Raymond Depardon: dal fotoreportage alla sua osservazione del mondo rurale. La biglietteria ufficiale presenta un percorso di 95 fotografie e indica l’apertura fino al 1° novembre. La segnalazione è un invito a riscoprire un autore che unisce eventi storici e vita ordinaria.",
+        "why_it_matters": "Per chi fotografa, il filo interessante è la continuità dello sguardo fra luoghi lontani e ambienti familiari. La mostra offre un percorso d’autore più ampio della singola immagine celebre.",
+        "source": "Comune di Argelliers · presentazione della mostra",
+        "url": "https://www.argelliers.fr/2026/06/02/%F0%9F%93%B8-evenement-raymond-depardon-sinstalle-a-labbaye-daniane/",
+        "published": "2026-06-02",
+        "limitations": "Mostra aperta da luglio, non inaugurata oggi. La biglietteria indica visite da mercoledì a domenica: il lunedì è escluso dall’orario ordinario. Non è una recensione di una visita.",
+        "additional_sources": [
+          {
+            "name": "Biglietteria ufficiale · percorso e orari aggiornati",
+            "url": "https://billetterie.saintguilhem-valleeherault.fr/fr/produit/exposition-depardon"
+          }
+        ]
       }
     ]
   },
   "watchlist": [
     {
-      "title": "Lunedì 28 settembre, ore 21: aggiornamento NASA e Boeing su Starliner",
-      "summary": "NASA ha annunciato una conferenza sullo sviluppo della capsula e sui piani per il trasporto regolare degli equipaggi. L’orario ufficiale è le 15 EDT, corrispondenti alle 21 a Copenhagen. È un appuntamento informativo: non va confuso con l’annuncio di un lancio.",
-      "source": "NASA · avviso del 25 settembre",
-      "url": "https://www.nasa.gov/news-release/nasa-boeing-to-provide-update-on-starliner-development/",
+      "title": "Oggi · Consiglio Difesa UE: Ucraina e minacce ibride",
+      "summary": "L’agenda ufficiale prevede il confronto sul sostegno militare all’Ucraina e sulle minacce ibride. Al momento della preparazione del briefing la riunione deve ancora svolgersi: seguiranno eventuali decisioni e comunicazioni ufficiali.",
+      "source": "Consiglio UE · agenda del 25 settembre",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/25/forward-look-2026/",
       "published": "2026-09-25"
     }
   ]
