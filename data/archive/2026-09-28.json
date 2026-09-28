@@ -1,0 +1,150 @@
+{
+  "status": "published",
+  "date": "2026-09-28",
+  "updated": "2026-09-28T03:04:00Z",
+  "title": "Daily David · Lunedì 28 settembre 2026",
+  "summary": "La settimana comincia con nuovi attacchi alle comunicazioni ucraine e due cambiamenti che toccano i consumatori: la scadenza europea contro il greenwashing e il tetto ai carburanti annunciato da Eni. Dieci letture, fra cronaca e approfondimenti: il dibattito europeo sull’AI, percezione visiva e ADHD, antenati ancora senza nome, MotoGP 2027 e Raymond Depardon. L’editoriale di Nature si chiede come trasformare la ricerca sulle disuguaglianze in scelte pubbliche. Le letture d’archivio sono distinte dalle novità.",
+  "top_stories": [
+    {
+      "title": "Ucraina: colpita Kyivstar, sotto pressione le comunicazioni",
+      "category": "Ucraina · Sicurezza",
+      "summary": "Kyivstar ha riferito che il 27 settembre è stata colpita la propria sede a Kyiv, senza vittime nell’edificio. Reuters colloca l’episodio nella serie di attacchi russi alle infrastrutture di comunicazione e ai centri dati. Il ministero della Difesa russo ha inoltre dichiarato di aver colpito un centro Vodafone Ukraine; l’operatore non aveva risposto alla richiesta di commento della Reuters.",
+      "why_it_matters": "Le reti di comunicazione sostengono servizi quotidiani, attività economiche e risposta alle emergenze. Il nuovo sviluppo riguarda una struttura di un grande operatore civile, ma dal resoconto non si può ricavare l’estensione di eventuali interruzioni per gli utenti.",
+      "source": "Reuters · via Internazionale",
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/09/27/russia-hits-ukraine-s-largest-mobile-provider-strikes-data-centres",
+      "published": "2026-09-27",
+      "limitations": "La conferma aziendale riguarda Kyivstar. La notizia sul centro Vodafone resta una dichiarazione russa non confermata dall’operatore; non va presentata con lo stesso grado di certezza."
+    },
+    {
+      "title": "Greenwashing: scatta la data europea per regole più severe",
+      "category": "Europa · Consumatori e clima",
+      "summary": "Il 27 settembre è la data prevista dalla direttiva UE 2024/825 per applicare le disposizioni nazionali che rafforzano la tutela dei consumatori. Fra le pratiche vietate rientrano indicazioni ambientali generiche senza prestazioni dimostrabili, marchi di sostenibilità privi di un sistema di certificazione o di un’autorità pubblica, e promesse climatiche sui prodotti fondate sulla sola compensazione delle emissioni. Sono affrontate anche le false affermazioni su durata e riparabilità.",
+      "why_it_matters": "Per un acquisto conta capire a quale caratteristica si riferisca una promessa: un imballaggio riciclato non rende automaticamente sostenibile l’intero prodotto. La novità è una scadenza applicativa di norme già approvate, non una nuova legge votata ieri.",
+      "source": "Consiglio UE · spiegazione delle pratiche sleali; consultazione 28 settembre",
+      "url": "https://www.consilium.europa.eu/en/policies/green-claims-empowering-consumers-for-more-sustainable-choices/",
+      "published": "2026-09-28",
+      "limitations": "La pagina del Consiglio non mostra una data editoriale: è indicata la consultazione. Applicazione e controlli passano dalle norme nazionali; la distinta proposta Green Claims non va confusa con questa direttiva già adottata.",
+      "additional_sources": [
+        {
+          "name": "EUR-Lex · direttiva 2024/825, articolo 4 e data di applicazione",
+          "url": "https://eur-lex.europa.eu/eli/dir/2024/825/oj"
+        }
+      ]
+    },
+    {
+      "title": "Carburanti: da oggi il tetto annunciato da Eni",
+      "category": "Italia · Energia",
+      "summary": "Eni ha annunciato dal 28 settembre un prezzo massimo per i carburanti commercializzati da Enilive: 2,19 euro al litro per il gasolio e 1,99 per la benzina. Il comunicato del 25 settembre prevede una durata iniziale di trenta giorni e collega l’iniziativa all’agevolazione sulle accise in vigore. Una prosecuzione fino a fine anno è possibile, ma dipende da mercato e approvvigionamenti.",
+      "why_it_matters": "È un’iniziativa di un operatore, con effetti potenziali sul costo del pieno, non un limite legale valido presso tutti i distributori. La durata e le condizioni contano quanto i prezzi annunciati.",
+      "source": "Eni · comunicato ufficiale",
+      "url": "https://www.eni.com/it-IT/media/comunicati-stampa/2026/09/cs-eni-aggiudica-dal-28-settembre-tetto-prezzi-gasolio-benzina.html",
+      "published": "2026-09-25",
+      "limitations": "Si riportano i termini annunciati dall’azienda, senza una verifica sul campo dei singoli impianti. L’estensione oltre i primi trenta giorni non è garantita."
+    },
+    {
+      "title": "Nature: dare una voce pubblica alla ricerca sulle disuguaglianze",
+      "category": "Editoriale · Opinione",
+      "summary": "Nell’editoriale del 15 settembre la redazione di Nature sostiene la proposta di un International Panel on Inequality: un gruppo che valuti le evidenze e confronti politiche riuscite e fallite. Chiede sostegno finanziario dei governi, ma anche selezione trasparente degli esperti e apertura a prospettive differenti. Il testo sottolinea che ricchi e poveri sono spesso poco rappresentati nei sondaggi e che servono dati migliori, oltre a nuove sintesi.",
+      "why_it_matters": "La lettura merita attenzione perché collega la qualità della conoscenza alla sua credibilità pubblica: chi partecipa, quali dati mancano e come si arriva a conclusioni condivise.",
+      "source": "Nature · editoriale della redazione",
+      "url": "https://www.nature.com/articles/d41586-026-02885-8",
+      "published": "2026-09-15",
+      "limitations": "Approfondimento di opinione precedente a questa settimana. L’utilità del panel è la tesi della redazione, non un risultato già dimostrato; conoscere una politica efficace non garantisce che venga adottata."
+    }
+  ],
+  "sections": {
+    "ai": [
+      {
+        "title": "AI europea: il dibattito si sposta anche sull’adozione",
+        "category": "AI · Politica europea",
+        "summary": "Secondo il resoconto di The Next Web del 27 settembre, che riprende Politico, l’inviato UE per l’AI industriale Jim Hagemann Snabe ha invitato i commissari a concentrarsi sull’uso della tecnologia per la produttività. Il giornale riferisce di un seminario riservato del 4 settembre, descritto da due funzionari a Politico. La questione è quanto valore possa creare l’Europa nell’applicazione dell’AI, anche quando i modelli più avanzati arrivano da Stati Uniti e Cina.",
+        "why_it_matters": "È una scelta di priorità: misurare servizi e attività che migliorano davvero, oltre alla posizione nella corsa ai modelli. Il resoconto descrive un orientamento discusso internamente, non nuovi obblighi per cittadini o imprese.",
+        "source": "The Next Web · resoconto del servizio di Zoya Sheftalovich per Politico Europe",
+        "url": "https://thenextweb.com/news/eu-ai-envoy-snabe-productivity-adoption",
+        "published": "2026-09-27",
+        "limitations": "La fonte disponibile è una ripresa giornalistica: non sono stati verificati verbali o materiali integrali del seminario. Non equivale a una decisione formale della Commissione.",
+        "additional_sources": [
+          {
+            "name": "Politico Europe · servizio originale richiamato da The Next Web",
+            "url": "https://www.politico.eu/article/eu-artificial-intelligence-adviser-ai-economy-productivity-focus-jim-hagemann-snabe/"
+          }
+        ]
+      }
+    ],
+    "psicologia": [
+      {
+        "title": "ADHD adulto: quando la differenza comincia dalla percezione",
+        "category": "ADHD · Approfondimento, studio del 2026",
+        "summary": "Hani Ifrah-Tsruya, Maria Lev e Uri Polat hanno confrontato 21 adulti con ADHD e 24 controlli in prove visive. Il gruppo ADHD mostrava in media minore sensibilità al contrasto; in una condizione molto rapida, di 40 millisecondi, traeva meno beneficio dall’ingrandimento dello stimolo. In un secondo esperimento, però, non emergeva una differenza complessiva significativa nella capacità di distinguere segnali immersi nel rumore visivo.",
+        "why_it_matters": "Il risultato invita a non spiegare ogni difficoltà come semplice disattenzione: possono intervenire processi percettivi selettivi, dipendenti dal compito. È altrettanto importante il risultato negativo, che limita le generalizzazioni.",
+        "source": "Vision Research · Hani Ifrah-Tsruya, Maria Lev e Uri Polat; abstract su PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42349229/",
+        "published": "2026-06-25",
+        "limitations": "Studio piccolo, apparso online il 25 giugno e nel fascicolo di settembre. Non è un test diagnostico né dimostra una difficoltà visiva universale nelle persone con ADHD; un risultato non significativo non prova equivalenza."
+      }
+    ],
+    "antropologia": [
+      {
+        "title": "Antenati senza un genoma di riferimento: che cosa cerca TRACE",
+        "category": "Antropologia · Approfondimento d’archivio",
+        "summary": "Un lavoro di Yulin Zhang e colleghi su Science presenta TRACE, un metodo per cercare contributi genetici di ominini arcaici senza partire dal loro DNA sequenziato. Analizzando circa mille genomi moderni, recupera segnali noti di Neanderthal e Denisoviani e individua tracce compatibili con incroci con popolazioni ancora non caratterizzate. Alcune compaiono anche in regioni prima considerate povere di ascendenza arcaica.",
+        "why_it_matters": "Il metodo amplia la ricerca oltre i pochi resti antichi da cui abbiamo ottenuto DNA. L’assenza di un fossile identificato non impedisce di formulare ipotesi sulla storia delle popolazioni, ma rende cruciale distinguere un segnale statistico dall’identità di un antenato.",
+        "source": "Science · Yulin Zhang e colleghi; abstract originale su PubMed",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/42531349/",
+        "published": "2026-08-27",
+        "limitations": "Lettura precedente a questa settimana, data del fascicolo indicata da PubMed. Le popolazioni «fantasma» sono inferite dai modelli: non sono nuove specie nominate o riconosciute attraverso fossili."
+      }
+    ],
+    "clima_spazio": [
+      {
+        "title": "Dentro Centaurus A: una galassia da leggere stella per stella",
+        "category": "Spazio · Lettura e immagini d’archivio, luglio 2026",
+        "summary": "Le immagini Webb presentate dalla NASA il 6 luglio mostrano Centaurus A, a circa undici milioni di anni luce, attraverso la polvere che ne nasconde il centro nella luce visibile. La combinazione del vicino e medio infrarosso distingue stelle e strutture polverose; una forma a S resta fra gli elementi da spiegare. La pagina include un’esplorazione interattiva delle osservazioni.",
+        "why_it_matters": "La fotografia astronomica diventa uno strumento per ricostruire la storia della galassia: distribuzione delle stelle, gas e polvere aiutano a distinguere fasi di formazione e attività del buco nero centrale.",
+        "source": "NASA · Webb Mission Team",
+        "url": "https://science.nasa.gov/missions/webb/nasa-webb-uncovers-unusual-galaxy-shaped-by-cosmic-collision/",
+        "published": "2026-07-06",
+        "limitations": "Approfondimento d’archivio, non una scoperta annunciata oggi. Diverse interpretazioni delle strutture richiedono ancora studi; le immagini originali e i crediti sono consultabili alla fonte."
+      }
+    ],
+    "motogp": [
+      {
+        "title": "MotoGP 2027: ventidue gare, Buenos Aires e Adelaide",
+        "category": "MotoGP · Calendario annunciato il 25 settembre",
+        "summary": "Il calendario ufficiale 2027 prevede ventidue Gran Premi su cinque continenti. Le due nuove sedi sono Buenos Aires, quarto appuntamento, e Adelaide, penultima tappa. La sequenza europea comprende Mugello, Assen e Brno; Misano è indicata dal 10 al 12 settembre, mentre Portimão si sposta all’inizio di ottobre prima delle trasferte finali.",
+        "why_it_matters": "Dopo i rinnovi dei singoli circuiti, il calendario completo permette di leggere l’ordine delle trasferte e delle pause nel nuovo ciclo tecnico. Le due nuove sedi aggiungono variabili che squadre e piloti dovranno preparare.",
+        "source": "MotoGP · comunicazione ufficiale",
+        "url": "https://www.motogp.com/en/news/2020/06/15/calendario-da-motogp-de-2027-e-divulgado/1092589",
+        "published": "2026-09-25",
+        "limitations": "La pagina reca la data editoriale 25 settembre 2026 nonostante il percorso dell’URL anomalo. Il programma riguarda il 2027; non modifica gli appuntamenti restanti del 2026."
+      }
+    ],
+    "fotografia_cultura": [
+      {
+        "title": "Raymond Depardon: il mondo e la vita quotidiana nello stesso sguardo",
+        "category": "Fotografia · Mostra in corso",
+        "summary": "All’antica abbazia di Aniane, in Francia, «Le bonheur est dans l’image» attraversa il lavoro di Raymond Depardon: dal fotoreportage alla sua osservazione del mondo rurale. La biglietteria ufficiale presenta un percorso di 95 fotografie e indica l’apertura fino al 1° novembre. La segnalazione è un invito a riscoprire un autore che unisce eventi storici e vita ordinaria.",
+        "why_it_matters": "Per chi fotografa, il filo interessante è la continuità dello sguardo fra luoghi lontani e ambienti familiari. La mostra offre un percorso d’autore più ampio della singola immagine celebre.",
+        "source": "Comune di Argelliers · presentazione della mostra",
+        "url": "https://www.argelliers.fr/2026/06/02/%F0%9F%93%B8-evenement-raymond-depardon-sinstalle-a-labbaye-daniane/",
+        "published": "2026-06-02",
+        "limitations": "Mostra aperta da luglio, non inaugurata oggi. La biglietteria indica visite da mercoledì a domenica: il lunedì è escluso dall’orario ordinario. Non è una recensione di una visita.",
+        "additional_sources": [
+          {
+            "name": "Biglietteria ufficiale · percorso e orari aggiornati",
+            "url": "https://billetterie.saintguilhem-valleeherault.fr/fr/produit/exposition-depardon"
+          }
+        ]
+      }
+    ]
+  },
+  "watchlist": [
+    {
+      "title": "Oggi · Consiglio Difesa UE: Ucraina e minacce ibride",
+      "summary": "L’agenda ufficiale prevede il confronto sul sostegno militare all’Ucraina e sulle minacce ibride. Al momento della preparazione del briefing la riunione deve ancora svolgersi: seguiranno eventuali decisioni e comunicazioni ufficiali.",
+      "source": "Consiglio UE · agenda del 25 settembre",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/25/forward-look-2026/",
+      "published": "2026-09-25"
+    }
+  ]
+}
